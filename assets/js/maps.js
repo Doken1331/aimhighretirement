@@ -235,7 +235,7 @@ media = "all" >
     style id = "rs-plugin-settings-inline-css"
 type = "text/css" > #rs - demo - id {} <
     /style> <
-    link rel = "stylesheet"
+link rel = "stylesheet"
 id = "wp-pagenavi-css"
 href = "../css/pagenavi-css.css"
 type = "text/css"
@@ -264,8 +264,8 @@ body, select, input, button, textarea, #reply - title small, .pricing - table - 
     .topright - button,
     .slideshow - button, #page - header.title - block3,
     .navigation li ul li a: hover,
-    .rev - custom - caption - 1.title - block1,
-    .rev - custom - caption - 2.title - block1,
+    .rev - custom - caption - 1. title - block1,
+    .rev - custom - caption - 2. title - block1,
     .button1: hover,
     .button3: hover,
     .button5: hover,
@@ -955,7 +955,7 @@ ul.agw-gallery
                 font - weight: bold;
             } <
             /style> <
-            link rel = "stylesheet"
+        link rel = "stylesheet"
         id = "owlcarousel-css"
         href = "../css/owl.carousel.css"
         type = "text/css"
@@ -999,7 +999,7 @@ ul.agw-gallery
         /script> <
         script type = "text/javascript"
         src = "frontend.min.js" > < /script> <
-            script type = "text/javascript" >
+        script type = "text/javascript" >
             /* <![CDATA[ */
             var userSettings = { "url": "\/", "uid": "0", "time": "1641907950", "secure": "1" };
         /* ]]> */
@@ -1007,25 +1007,24 @@ ul.agw-gallery
         /script> <
         script type = "text/javascript"
         src = "utils.min.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "jquery.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "jquery-migrate.min.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "moxie.min.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "plupload.min.js" > < /script>
             <!--[if lt IE 8]>
             <
             script type = 'text/javascript'
-        src = 'wp-includes/js/json2.min.js?ver=2015-05-03' > < /script> <
-            ![endif] -->
+        src = 'wp-includes/js/json2.min.js?ver=2015-05-03' > < /script> <![endif] -->
             <
             script type = "text/javascript"
         src = "jquery.prettyPhoto.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "agw_front.js" > < /script> <
-            script type = "text/javascript" >
+        script type = "text/javascript" >
             /* <![CDATA[ */
             var cnArgs = { "ajaxurl": "https:\/\/www.seniorpointy.cz\/wp-admin\/admin-ajax.php", "hideEffect": "fade", "onScroll": "no", "onScrollOffset": "100", "onClick": "", "cookieName": "cookie_notice_accepted", "cookieValue": "true", "cookieTime": "31536000", "cookiePath": "\/", "cookieDomain": "", "redirection": "", "cache": "", "refuse": "no", "revoke_cookies": "0", "revoke_cookies_opt": "automatic", "secure": "1" };
         /* ]]> */
@@ -1033,21 +1032,21 @@ ul.agw-gallery
         /script> <
         script type = "text/javascript"
         src = "front.min.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "scripts.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "js.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "fontawesome-markers.min.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "jquery.themepunch.tools.min.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "jquery.themepunch.revolution.min.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "maps.js" > < /script> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         src = "filterbox.js" > < /script> <
-            link rel = "https://api.w.org/"
+        link rel = "https://api.w.org/"
         href = "wp-json/" >
             <
             link rel = "EditURI"
@@ -1063,26 +1062,36 @@ ul.agw-gallery
         content = "WordPress 5.3.11" >
             <
             style > #category - posts - 8 - internal ul { padding: 0; }#
-        category - posts - 8 - internal.cat - post - item img { max - width: initial;
+        category - posts - 8 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 8 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 8 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 8 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 8 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 8 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 8 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 8 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 8 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 8 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 8 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 8 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 8 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 8 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 8 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 8 - internal p { margin: 5 px 0 0 0 }#
@@ -1090,33 +1099,45 @@ ul.agw-gallery
         category - posts - 8 - internal.dashicons { vertical - align: middle; }#
         category - posts - 8 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 8 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 8 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 8 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 8 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 8 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 8 - internal.cat - post - item img { margin: initial; }#
         category - posts - 8 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 9 - internal ul { padding: 0; }#
-        category - posts - 9 - internal.cat - post - item img { max - width: initial;
+        category - posts - 9 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 9 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 9 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 9 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 9 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 9 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 9 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 9 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 9 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 9 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 9 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 9 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 9 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 9 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 9 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 9 - internal p { margin: 5 px 0 0 0 }#
@@ -1124,33 +1145,45 @@ ul.agw-gallery
         category - posts - 9 - internal.dashicons { vertical - align: middle; }#
         category - posts - 9 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 9 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 9 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 9 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 9 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 9 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 9 - internal.cat - post - item img { margin: initial; }#
         category - posts - 9 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 29 - internal ul { padding: 0; }#
-        category - posts - 29 - internal.cat - post - item img { max - width: initial;
+        category - posts - 29 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 29 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 29 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 29 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 29 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 29 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 29 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 29 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 29 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 29 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 29 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 29 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 29 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 29 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 29 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 29 - internal p { margin: 5 px 0 0 0 }#
@@ -1158,33 +1191,45 @@ ul.agw-gallery
         category - posts - 29 - internal.dashicons { vertical - align: middle; }#
         category - posts - 29 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 29 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 29 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 29 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 29 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 29 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 29 - internal.cat - post - item img { margin: initial; }#
         category - posts - 29 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 32 - internal ul { padding: 0; }#
-        category - posts - 32 - internal.cat - post - item img { max - width: initial;
+        category - posts - 32 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 32 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 32 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 32 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 32 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 32 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 32 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 32 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 32 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 32 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 32 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 32 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 32 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 32 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 32 - internal.cat - post - item: after { content: "";display: table;clear: both; }#
         category - posts - 32 - internal p { margin: 5 px 0 0 0 }#
@@ -1192,33 +1237,45 @@ ul.agw-gallery
         category - posts - 32 - internal.dashicons { vertical - align: middle; }#
         category - posts - 32 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 32 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 32 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 32 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 32 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 32 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 32 - internal.cat - post - item img { margin: initial; }#
         category - posts - 32 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 3 - internal ul { padding: 0; }#
-        category - posts - 3 - internal.cat - post - item img { max - width: initial;
+        category - posts - 3 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 3 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 3 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 3 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 3 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 3 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 3 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 3 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 3 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 3 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 3 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 3 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 3 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 3 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 3 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 3 - internal p { margin: 5 px 0 0 0 }#
@@ -1226,33 +1283,45 @@ ul.agw-gallery
         category - posts - 3 - internal.dashicons { vertical - align: middle; }#
         category - posts - 3 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 3 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 3 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 3 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 3 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 3 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 3 - internal.cat - post - item img { margin: initial; }#
         category - posts - 3 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 7 - internal ul { padding: 0; }#
-        category - posts - 7 - internal.cat - post - item img { max - width: initial;
+        category - posts - 7 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 7 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 7 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 7 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 7 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 7 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 7 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 7 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 7 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 7 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 7 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 7 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 7 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 7 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 7 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 7 - internal p { margin: 5 px 0 0 0 }#
@@ -1260,33 +1329,45 @@ ul.agw-gallery
         category - posts - 7 - internal.dashicons { vertical - align: middle; }#
         category - posts - 7 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 7 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 7 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 7 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 7 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 7 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 7 - internal.cat - post - item img { margin: initial; }#
         category - posts - 7 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 21 - internal ul { padding: 0; }#
-        category - posts - 21 - internal.cat - post - item img { max - width: initial;
+        category - posts - 21 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 21 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 21 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 21 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 21 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 21 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 21 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 21 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 21 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 21 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 21 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 21 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 21 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 21 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 21 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 21 - internal p { margin: 5 px 0 0 0 }#
@@ -1294,33 +1375,45 @@ ul.agw-gallery
         category - posts - 21 - internal.dashicons { vertical - align: middle; }#
         category - posts - 21 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 21 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 21 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 21 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 21 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 21 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 21 - internal.cat - post - item img { margin: initial; }#
         category - posts - 21 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 2 - internal ul { padding: 0; }#
-        category - posts - 2 - internal.cat - post - item img { max - width: initial;
+        category - posts - 2 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 2 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 2 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 2 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 2 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 2 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 2 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 2 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 2 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 2 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 2 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 2 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 2 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 2 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 2 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 2 - internal p { margin: 5 px 0 0 0 }#
@@ -1328,36 +1421,50 @@ ul.agw-gallery
         category - posts - 2 - internal.dashicons { vertical - align: middle; }#
         category - posts - 2 - internal.cat - post - thumbnail.cat - post - crop img { width: 64 px; }#
         category - posts - 2 - internal.cat - post - thumbnail.cat - post - crop img { height: 64 px; }#
-        category - posts - 2 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 2 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 2 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 2 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 2 - internal.cat - post - item img { margin: initial; }#
         category - posts - 2 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 2 - internal.cat - post - scale img { margin: initial;padding - bottom: 0!important; - webkit - transition: all 0.3 s ease; - moz - transition: all 0.3 s ease; - ms - transition: all 0.3 s ease; - o - transition: all 0.3 s ease;transition: all 0.3 s ease; }#
-        category - posts - 2 - internal.cat - post - scale: hover img {-webkit - transform: scale(1.1, 1.1); - ms - transform: scale(1.1, 1.1);
-            transform: scale(1.1, 1.1); }#
+        category - posts - 2 - internal.cat - post - scale: hover img {
+            -webkit - transform: scale(1.1, 1.1); - ms - transform: scale(1.1, 1.1);
+            transform: scale(1.1, 1.1);
+        }#
         category - posts - 5 - internal ul { padding: 0; }#
-        category - posts - 5 - internal.cat - post - item img { max - width: initial;
+        category - posts - 5 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 5 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 5 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 5 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 5 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 5 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 5 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 5 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 5 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 5 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 5 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 5 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 5 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 5 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 5 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 5 - internal p { margin: 5 px 0 0 0 }#
@@ -1365,33 +1472,45 @@ ul.agw-gallery
         category - posts - 5 - internal.dashicons { vertical - align: middle; }#
         category - posts - 5 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 5 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 5 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 5 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 5 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 5 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 5 - internal.cat - post - item img { margin: initial; }#
         category - posts - 5 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 6 - internal ul { padding: 0; }#
-        category - posts - 6 - internal.cat - post - item img { max - width: initial;
+        category - posts - 6 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 6 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 6 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 6 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 6 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 6 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 6 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 6 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 6 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 6 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 6 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 6 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 6 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 6 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 6 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 6 - internal p { margin: 5 px 0 0 0 }#
@@ -1399,33 +1518,45 @@ ul.agw-gallery
         category - posts - 6 - internal.dashicons { vertical - align: middle; }#
         category - posts - 6 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 6 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 6 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 6 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 6 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 6 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 6 - internal.cat - post - item img { margin: initial; }#
         category - posts - 6 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 25 - internal ul { padding: 0; }#
-        category - posts - 25 - internal.cat - post - item img { max - width: initial;
+        category - posts - 25 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 25 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 25 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 25 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 25 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 25 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 25 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 25 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 25 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 25 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 25 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 25 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 25 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 25 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 25 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 25 - internal p { margin: 5 px 0 0 0 }#
@@ -1433,33 +1564,45 @@ ul.agw-gallery
         category - posts - 25 - internal.dashicons { vertical - align: middle; }#
         category - posts - 25 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 25 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 25 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 25 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 25 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 25 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 25 - internal.cat - post - item img { margin: initial; }#
         category - posts - 25 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 10 - internal ul { padding: 0; }#
-        category - posts - 10 - internal.cat - post - item img { max - width: initial;
+        category - posts - 10 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 10 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 10 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 10 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 10 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 10 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 10 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 10 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 10 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 10 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 10 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 10 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 10 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 10 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 10 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 10 - internal p { margin: 5 px 0 0 0 }#
@@ -1467,33 +1610,45 @@ ul.agw-gallery
         category - posts - 10 - internal.dashicons { vertical - align: middle; }#
         category - posts - 10 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 10 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 10 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 10 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 10 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 10 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 10 - internal.cat - post - item img { margin: initial; }#
         category - posts - 10 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 14 - internal ul { padding: 0; }#
-        category - posts - 14 - internal.cat - post - item img { max - width: initial;
+        category - posts - 14 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 14 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 14 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 14 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 14 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 14 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 14 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 14 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 14 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 14 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 14 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 14 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 14 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 14 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 14 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 14 - internal p { margin: 5 px 0 0 0 }#
@@ -1501,33 +1656,45 @@ ul.agw-gallery
         category - posts - 14 - internal.dashicons { vertical - align: middle; }#
         category - posts - 14 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 14 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 14 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 14 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 14 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 14 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 14 - internal.cat - post - item img { margin: initial; }#
         category - posts - 14 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 11 - internal ul { padding: 0; }#
-        category - posts - 11 - internal.cat - post - item img { max - width: initial;
+        category - posts - 11 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 11 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 11 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 11 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 11 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 11 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 11 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 11 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 11 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 11 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 11 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 11 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 11 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 11 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 11 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 11 - internal p { margin: 5 px 0 0 0 }#
@@ -1535,33 +1702,45 @@ ul.agw-gallery
         category - posts - 11 - internal.dashicons { vertical - align: middle; }#
         category - posts - 11 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 11 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 11 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 11 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 11 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 11 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 11 - internal.cat - post - item img { margin: initial; }#
         category - posts - 11 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 23 - internal ul { padding: 0; }#
-        category - posts - 23 - internal.cat - post - item img { max - width: initial;
+        category - posts - 23 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 23 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 23 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 23 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 23 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 23 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 23 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 23 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 23 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 23 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 23 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 23 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 23 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 23 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 23 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 23 - internal p { margin: 5 px 0 0 0 }#
@@ -1569,33 +1748,45 @@ ul.agw-gallery
         category - posts - 23 - internal.dashicons { vertical - align: middle; }#
         category - posts - 23 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 23 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 23 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 23 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 23 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 23 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 23 - internal.cat - post - item img { margin: initial; }#
         category - posts - 23 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 26 - internal ul { padding: 0; }#
-        category - posts - 26 - internal.cat - post - item img { max - width: initial;
+        category - posts - 26 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 26 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 26 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 26 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 26 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 26 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 26 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 26 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 26 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 26 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 26 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 26 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 26 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 26 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 26 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 26 - internal p { margin: 5 px 0 0 0 }#
@@ -1603,33 +1794,45 @@ ul.agw-gallery
         category - posts - 26 - internal.dashicons { vertical - align: middle; }#
         category - posts - 26 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 26 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 26 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 26 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 26 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 26 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 26 - internal.cat - post - item img { margin: initial; }#
         category - posts - 26 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 34 - internal ul { padding: 0; }#
-        category - posts - 34 - internal.cat - post - item img { max - width: initial;
+        category - posts - 34 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 34 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 34 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 34 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 34 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 34 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 34 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 34 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 34 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 34 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 34 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 34 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 34 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 34 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 34 - internal.cat - post - item: after { content: "";display: table;clear: both; }#
         category - posts - 34 - internal p { margin: 5 px 0 0 0 }#
@@ -1637,33 +1840,45 @@ ul.agw-gallery
         category - posts - 34 - internal.dashicons { vertical - align: middle; }#
         category - posts - 34 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 34 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 34 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 34 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 34 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 34 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 34 - internal.cat - post - item img { margin: initial; }#
         category - posts - 34 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 24 - internal ul { padding: 0; }#
-        category - posts - 24 - internal.cat - post - item img { max - width: initial;
+        category - posts - 24 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 24 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 24 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 24 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 24 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 24 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 24 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 24 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 24 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 24 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 24 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 24 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 24 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 24 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 24 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 24 - internal p { margin: 5 px 0 0 0 }#
@@ -1671,33 +1886,45 @@ ul.agw-gallery
         category - posts - 24 - internal.dashicons { vertical - align: middle; }#
         category - posts - 24 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 24 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 24 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 24 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 24 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 24 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 24 - internal.cat - post - item img { margin: initial; }#
         category - posts - 24 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 35 - internal ul { padding: 0; }#
-        category - posts - 35 - internal.cat - post - item img { max - width: initial;
+        category - posts - 35 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 35 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 35 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 35 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 35 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 35 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 35 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 35 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 35 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 35 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 35 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 35 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 35 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 35 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 35 - internal.cat - post - item: after { content: "";display: table;clear: both; }#
         category - posts - 35 - internal p { margin: 5 px 0 0 0 }#
@@ -1705,33 +1932,45 @@ ul.agw-gallery
         category - posts - 35 - internal.dashicons { vertical - align: middle; }#
         category - posts - 35 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 35 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 35 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 35 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 35 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 35 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 35 - internal.cat - post - item img { margin: initial; }#
         category - posts - 35 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 15 - internal ul { padding: 0; }#
-        category - posts - 15 - internal.cat - post - item img { max - width: initial;
+        category - posts - 15 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 15 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 15 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 15 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 15 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 15 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 15 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 15 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 15 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 15 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 15 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 15 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 15 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 15 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 15 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 15 - internal p { margin: 5 px 0 0 0 }#
@@ -1739,33 +1978,45 @@ ul.agw-gallery
         category - posts - 15 - internal.dashicons { vertical - align: middle; }#
         category - posts - 15 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 15 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 15 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 15 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 15 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 15 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 15 - internal.cat - post - item img { margin: initial; }#
         category - posts - 15 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 19 - internal ul { padding: 0; }#
-        category - posts - 19 - internal.cat - post - item img { max - width: initial;
+        category - posts - 19 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 19 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 19 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 19 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 19 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 19 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 19 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 19 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 19 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 19 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 19 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 19 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 19 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 19 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 19 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 19 - internal p { margin: 5 px 0 0 0 }#
@@ -1773,33 +2024,45 @@ ul.agw-gallery
         category - posts - 19 - internal.dashicons { vertical - align: middle; }#
         category - posts - 19 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 19 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 19 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 19 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 19 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 19 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 19 - internal.cat - post - item img { margin: initial; }#
         category - posts - 19 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 20 - internal ul { padding: 0; }#
-        category - posts - 20 - internal.cat - post - item img { max - width: initial;
+        category - posts - 20 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 20 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 20 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 20 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 20 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 20 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 20 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 20 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 20 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 20 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 20 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 20 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 20 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 20 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 20 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 20 - internal p { margin: 5 px 0 0 0 }#
@@ -1807,33 +2070,45 @@ ul.agw-gallery
         category - posts - 20 - internal.dashicons { vertical - align: middle; }#
         category - posts - 20 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 20 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 20 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 20 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 20 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 20 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 20 - internal.cat - post - item img { margin: initial; }#
         category - posts - 20 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 4 - internal ul { padding: 0; }#
-        category - posts - 4 - internal.cat - post - item img { max - width: initial;
+        category - posts - 4 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 4 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 4 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 4 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 4 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 4 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 4 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 4 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 4 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 4 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 4 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 4 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 4 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 4 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 4 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 4 - internal p { margin: 5 px 0 0 0 }#
@@ -1841,33 +2116,45 @@ ul.agw-gallery
         category - posts - 4 - internal.dashicons { vertical - align: middle; }#
         category - posts - 4 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 4 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 4 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 4 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 4 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 4 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 4 - internal.cat - post - item img { margin: initial; }#
         category - posts - 4 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 28 - internal ul { padding: 0; }#
-        category - posts - 28 - internal.cat - post - item img { max - width: initial;
+        category - posts - 28 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 28 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 28 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 28 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 28 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 28 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 28 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 28 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 28 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 28 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 28 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 28 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 28 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 28 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 28 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 28 - internal p { margin: 5 px 0 0 0 }#
@@ -1875,33 +2162,45 @@ ul.agw-gallery
         category - posts - 28 - internal.dashicons { vertical - align: middle; }#
         category - posts - 28 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 28 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 28 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 28 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 28 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 28 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 28 - internal.cat - post - item img { margin: initial; }#
         category - posts - 28 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 12 - internal ul { padding: 0; }#
-        category - posts - 12 - internal.cat - post - item img { max - width: initial;
+        category - posts - 12 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 12 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 12 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 12 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 12 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 12 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 12 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 12 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 12 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 12 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 12 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 12 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 12 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 12 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 12 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 12 - internal p { margin: 5 px 0 0 0 }#
@@ -1909,33 +2208,45 @@ ul.agw-gallery
         category - posts - 12 - internal.dashicons { vertical - align: middle; }#
         category - posts - 12 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 12 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 12 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 12 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 12 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 12 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 12 - internal.cat - post - item img { margin: initial; }#
         category - posts - 12 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 33 - internal ul { padding: 0; }#
-        category - posts - 33 - internal.cat - post - item img { max - width: initial;
+        category - posts - 33 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 33 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 33 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 33 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 33 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 33 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 33 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 33 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 33 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 33 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 33 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 33 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 33 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 33 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 33 - internal.cat - post - item: after { content: "";display: table;clear: both; }#
         category - posts - 33 - internal p { margin: 5 px 0 0 0 }#
@@ -1943,33 +2254,45 @@ ul.agw-gallery
         category - posts - 33 - internal.dashicons { vertical - align: middle; }#
         category - posts - 33 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 33 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 33 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 33 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 33 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 33 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 33 - internal.cat - post - item img { margin: initial; }#
         category - posts - 33 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 16 - internal ul { padding: 0; }#
-        category - posts - 16 - internal.cat - post - item img { max - width: initial;
+        category - posts - 16 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 16 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 16 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 16 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 16 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 16 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 16 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 16 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 16 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 16 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 16 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 16 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 16 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 16 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 16 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 16 - internal p { margin: 5 px 0 0 0 }#
@@ -1977,33 +2300,45 @@ ul.agw-gallery
         category - posts - 16 - internal.dashicons { vertical - align: middle; }#
         category - posts - 16 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 16 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 16 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 16 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 16 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 16 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 16 - internal.cat - post - item img { margin: initial; }#
         category - posts - 16 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 18 - internal ul { padding: 0; }#
-        category - posts - 18 - internal.cat - post - item img { max - width: initial;
+        category - posts - 18 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 18 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 18 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 18 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 18 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 18 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 18 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 18 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 18 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 18 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 18 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 18 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 18 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 18 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 18 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 18 - internal p { margin: 5 px 0 0 0 }#
@@ -2011,59 +2346,81 @@ ul.agw-gallery
         category - posts - 18 - internal.dashicons { vertical - align: middle; }#
         category - posts - 18 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 18 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 18 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 18 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 18 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 18 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 18 - internal.cat - post - item img { margin: initial; }#
         category - posts - 18 - internal.cat - post - thumbnail { float: left; }#
         category - posts - 17 - internal ul { padding: 0; }#
-        category - posts - 17 - internal.cat - post - item img { max - width: initial;
+        category - posts - 17 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 17 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 17 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 17 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 17 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 17 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 17 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 17 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 17 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 17 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 17 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 17 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 17 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 17 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 17 - internal.cat - post - item a: after { content: "";display: table;clear: both; }#
         category - posts - 17 - internal p { margin: 5 px 0 0 0 }#
         category - posts - 17 - internal li > div { margin: 5 px 0 0 0;clear: both; }#
         category - posts - 17 - internal.dashicons { vertical - align: middle; }#
         category - posts - 30 - internal ul { padding: 0; }#
-        category - posts - 30 - internal.cat - post - item img { max - width: initial;
+        category - posts - 30 - internal.cat - post - item img {
+            max - width: initial;
             max - height: initial;
-            margin: initial; }#
+            margin: initial;
+        }#
         category - posts - 30 - internal.cat - post - author { margin - bottom: 0; }#
         category - posts - 30 - internal.cat - post - thumbnail { margin: 5 px 10 px 5 px 0; }#
         category - posts - 30 - internal.cat - post - item: before { content: "";clear: both; }#
         category - posts - 30 - internal.cat - post - title { font - size: 15 px; }#
-        category - posts - 30 - internal.cat - post - current.cat - post - title { font - weight: bold;
-            text - transform: uppercase; }#
-        category - posts - 30 - internal.cat - post - date { font - size: 14 px;
+        category - posts - 30 - internal.cat - post - current.cat - post - title {
+            font - weight: bold;
+            text - transform: uppercase;
+        }#
+        category - posts - 30 - internal.cat - post - date {
+            font - size: 14 px;
             line - height: 18 px;
             font - style: italic;
-            margin - bottom: 5 px; }#
-        category - posts - 30 - internal.cat - post - comment - num { font - size: 14 px;
-            line - height: 18 px; }#
-        category - posts - 30 - internal.cat - post - item { border - bottom: 1 px solid# ccc;
+            margin - bottom: 5 px;
+        }#
+        category - posts - 30 - internal.cat - post - comment - num {
+            font - size: 14 px;
+            line - height: 18 px;
+        }#
+        category - posts - 30 - internal.cat - post - item {
+            border - bottom: 1 px solid# ccc;
             list - style: none;
             list - style - type: none;
             margin: 3 px 0;
-            padding: 3 px 0; }#
+            padding: 3 px 0;
+        }#
         category - posts - 30 - internal.cat - post - item: last - child { border - bottom: none; }#
         category - posts - 30 - internal.cat - post - item: after { content: "";display: table;clear: both; }#
         category - posts - 30 - internal p { margin: 5 px 0 0 0 }#
@@ -2071,14 +2428,16 @@ ul.agw-gallery
         category - posts - 30 - internal.dashicons { vertical - align: middle; }#
         category - posts - 30 - internal.cat - post - thumbnail.cat - post - crop img { width: 150 px; }#
         category - posts - 30 - internal.cat - post - thumbnail.cat - post - crop img { height: 150 px; }#
-        category - posts - 30 - internal.cat - post - thumbnail.cat - post - crop img { object - fit: cover;
-            max - width: 100 % ; }#
+        category - posts - 30 - internal.cat - post - thumbnail.cat - post - crop img {
+            object - fit: cover;
+            max - width: 100 % ;
+        }#
         category - posts - 30 - internal.cat - post - thumbnail.cat - post - crop - not - supported img { width: 100 % ; }#
         category - posts - 30 - internal.cat - post - thumbnail { max - width: 100 % ; }#
         category - posts - 30 - internal.cat - post - item img { margin: initial; }#
         category - posts - 30 - internal.cat - post - thumbnail { float: left; } <
             /style> <
-            script type = "text/javascript"
+        script type = "text/javascript"
         data - cfasync = "false" >
             var _mmunch = { 'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false }; < /script><script data-cfasync="false" src="site.js" id="mailmunch-script" data-plugin="mc_mm" data-mailmunch-site-id="418005" async></script > < meta name = "generator"
         content = "Powered by Visual Composer - drag and drop page builder for WordPress." >
@@ -2086,9 +2445,9 @@ ul.agw-gallery
             <
             style type = "text/css"
         id = "wp-custom-css" > #page - header {
-                background: url(.. / images / header1.jpg) top center no - repeat;
-            } < /style> <
-            noscript > < style type = "text/css" > .wpb_animate_when_almost_visible { opacity: 1; } < /style></noscript >
+            background: url(.. / images / header1.jpg) top center no - repeat;
+        } < /style> <
+        noscript > < style type = "text/css" > .wpb_animate_when_almost_visible { opacity: 1; } < /style></noscript >
             <!-- END head -->
             <
             /head>
@@ -2172,7 +2531,7 @@ ul.agw-gallery
             <
             i class = "fa fa-map-marker"
         aria - hidden = "true" > < /i> <
-            p > < strong > Mendlovo náměstí 1 a < /strong>603 00 Brno</p >
+        p > < strong > Mendlovo náměstí 1 a < /strong>603 00 Brno</p >
             <!-- END .header-icon -->
             <
             /div>
@@ -2183,7 +2542,7 @@ ul.agw-gallery
             <
             i class = "fa fa-clock-o"
         aria - hidden = "true" > < /i> <
-            p > < strong > 08: 00 - 17: 00 < /strong>Pondělí - Pátek</p >
+        p > < strong > 08: 00 - 17: 00 < /strong>Pondělí - Pátek</p >
             <!-- END .header-icon -->
             <
             /div>
@@ -2194,7 +2553,7 @@ ul.agw-gallery
             <
             i class = "fa fa-phone"
         aria - hidden = "true" > < /i> <
-            p > < strong > +420 543 212 870 < /strong>info@seniorpointy.cz</p >
+        p > < strong > +420 543 212 870 < /strong>info@</p >
             <!-- END .header-icon -->
             <
             /div>
@@ -2231,7 +2590,7 @@ ul.agw-gallery
             <
             li id = "menu-item-898"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-898" > < a href = "#" > O projektu < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li id = "menu-item-899"
         class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-899" > < a href = "o-projektu-senior-pointy/nabizene-sluzby/" > Nabízené služby < /a></li >
@@ -2245,19 +2604,19 @@ ul.agw-gallery
             li id = "menu-item-901"
         class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-901" > < a href = "o-projektu-senior-pointy/navstevnost-a-dotazy/" > Návštěvnost a dotazy < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li id = "menu-item-479"
         class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-479" > < a href = "?page_id=474" > Pobočky < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li id = "menu-item-689"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-689" > < a href = "#" > Jihomoravský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li id = "menu-item-690"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-690" > < a href = "#" > Brno < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li id = "menu-item-691"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-691" > < a href = "https://seniorpointy.cz/brno-mendlovo-namesti/" > Mendlovo náměstí < /a></li >
@@ -2274,8 +2633,8 @@ ul.agw-gallery
             li id = "menu-item-1062"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1062" > < a href = "https://seniorpointy.cz/brno-lesna/" > Lesná < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li id = "menu-item-697"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-697" > < a href = "https://seniorpointy.cz/boskovice/" > Boskovice < /a></li >
             <
@@ -2288,22 +2647,22 @@ ul.agw-gallery
             li id = "menu-item-701"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-701" > < a href = "https://seniorpointy.cz/znojmo/" > Znojmo < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li id = "menu-item-684"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-684" > < a href = "#" > Středočeský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li id = "menu-item-1325"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1325" > < a href = "brandys-nad-labem-stara-boleslav" > Brandýs nad Labem & #8211; Stará Boleslav</a></li>
 		<li id= "menu-item-685"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-685" > < a href = "https://seniorpointy.cz/pribram-2/" > Příbram < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li id = "menu-item-686"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-686" > < a href = "#" > Jihočeský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li id = "menu-item-705"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-705" > < a href = "ceske-budejovice/" > České Budějovice < /a></li >
@@ -2314,20 +2673,20 @@ ul.agw-gallery
             li id = "menu-item-709"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-709" > < a href = "https://seniorpointy.cz/pisek/" > Písek < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li id = "menu-item-687"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-687" > < a href = "#" > Zlínský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li id = "menu-item-704"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-704" > < a href = "https://seniorpointy.cz/zlin/" > Zlín < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li id = "menu-item-688"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-688" > < a href = "#" > Moravskoslezský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li id = "menu-item-1248"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1248" > < a href = "https://seniorpointy.cz/bruntal/" > Bruntál < /a></li >
@@ -2373,19 +2732,19 @@ ul.agw-gallery
             li id = "menu-item-1592"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1592" > < a href = "orlova" > Orlová < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li id = "menu-item-1324"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1324" > < a href = "#" > Pardubický kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li id = "menu-item-1326"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1326" > < a href = "vysoke-myto/" > Vysoké Mýto < /a></li >
             <
-            /ul> <
-            /li> <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
+            /ul> < /
+            li > <
             li id = "menu-item-903"
         class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-903" > < a href = "partneri-projektu/" > Partneři projektu < /a></li >
             <
@@ -2422,7 +2781,7 @@ ul.agw-gallery
             ul > < li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-938" > < a href = "" > Úvod < /a></li >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-898" > < a href = "#" > O projektu < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-899" > < a href = "o-projektu-senior-pointy/nabizene-sluzby/" > Nabízené služby < /a></li >
             <
@@ -2432,16 +2791,16 @@ ul.agw-gallery
             <
             li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-901" > < a href = "o-projektu-senior-pointy/navstevnost-a-dotazy/" > Návštěvnost a dotazy < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-479" > < a href = "?page_id=474" > Pobočky < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-689" > < a href = "#" > Jihomoravský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-690" > < a href = "#" > Brno < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-691" > < a href = "https://seniorpointy.cz/brno-mendlovo-namesti/" > Mendlovo náměstí < /a></li >
             <
@@ -2453,8 +2812,8 @@ ul.agw-gallery
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1062" > < a href = "https://seniorpointy.cz/brno-lesna/" > Lesná < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-697" > < a href = "https://seniorpointy.cz/boskovice/" > Boskovice < /a></li >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-698" > < a href = "https://seniorpointy.cz/breclav/" > Břeclav < /a></li >
@@ -2463,18 +2822,18 @@ ul.agw-gallery
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-701" > < a href = "https://seniorpointy.cz/znojmo/" > Znojmo < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-684" > < a href = "#" > Středočeský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1325" > < a href = "brandys-nad-labem-stara-boleslav" > Brandýs nad Labem & #8211; Stará Boleslav</a></li>
 		<li class= "menu-item menu-item-type-custom menu-item-object-custom menu-item-685" > < a href = "https://seniorpointy.cz/pribram-2/" > Příbram < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-686" > < a href = "#" > Jihočeský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-705" > < a href = "ceske-budejovice/" > České Budějovice < /a></li >
             <
@@ -2482,17 +2841,17 @@ ul.agw-gallery
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-709" > < a href = "https://seniorpointy.cz/pisek/" > Písek < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-687" > < a href = "#" > Zlínský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-704" > < a href = "https://seniorpointy.cz/zlin/" > Zlín < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-688" > < a href = "#" > Moravskoslezský kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1248" > < a href = "https://seniorpointy.cz/bruntal/" > Bruntál < /a></li >
             <
@@ -2523,17 +2882,17 @@ ul.agw-gallery
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1592" > < a href = "orlova" > Orlová < /a></li >
             <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1324" > < a href = "#" > Pardubický kraj < /a> <
-            ul class = "sub-menu" >
+        ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1326" > < a href = "vysoke-myto/" > Vysoké Mýto < /a></li >
             <
-            /ul> <
-            /li> <
-            /ul> <
-            /li> <
+            /ul> < /
+            li > <
+            /ul> < /
+            li > <
             li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-903" > < a href = "partneri-projektu/" > Partneři projektu < /a></li >
             <
             li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-897" > < a href = "kontakty/" > Kontakty < /a></li >
@@ -2588,8 +2947,8 @@ ul.agw-gallery
         style = "background:url(../images/header1.jpg) top center no-repeat;" >
             <
             h1 > Stránka nenalezena < /h1> <
-            div class = "title-block3" > < /div> <
-            p > < span > < a href = ""
+        div class = "title-block3" > < /div> <
+        p > < span > < a href = ""
         itemprop = "url" > < span > Home < /span></a > < /span> <span class="sep"><i class="fa fa-angle-right"></i > < /span> <span class="current">Error 404</span > < /p></div >
 
             <!-- BEGIN .content-wrapper -->
@@ -2618,12 +2977,12 @@ ul.agw-gallery
         value = "&nbsp;" >
             <
             button type = "submit" >
-            Vyhledat < i class = "fa fa-search" > < /i> <
-            /button>
+            Vyhledat < i class = "fa fa-search" > < /i> < /
+            button >
 
-        <!-- END .accommodation-search-form-1 -->
-        <
-        /form>
+            <!-- END .accommodation-search-form-1 -->
+            <
+            /form>
 
         <
         /div>
@@ -2651,62 +3010,60 @@ ul.agw-gallery
             IČ: 26976307 < br >
             DIČ: CZ26976307(jsme plátci DPH) < br >
             číslo účtu: 197883555 / 0300(ČSOB) < br >
-            Datová schránka: sq4uys8 < /p> <
-            /div> <
+            Datová schránka: sq4uys8 < /p> < /
+            div > <
             /div><div id="text-4" class="one-fourth widget clearfix widget_text"><h5>Podporují nás</h
         5 > < div class = "title-block2" > < /div>			<div class="textwidget"><p> <
-            a href = "https://www.kr-jihomoravsky.cz/"
+        a href = "https://www.kr-jihomoravsky.cz/"
         title = "Jihomoravský kraj"
         target = "_blank"
         rel = "noopener noreferrer" > Jihomoravský kraj < /a><br> <
-            a href = "http://www.mpsv.cz/cs/"
+        a href = "http://www.mpsv.cz/cs/"
         title = "Ministerstvo práce a sociálních věcí ČR"
         target = "_blank"
         rel = "noopener noreferrer" > Ministerstvo práce a sociálních věcí ČR < /a><br> <
-            a href = "https://www.brno.cz/"
+        a href = "https://www.brno.cz/"
         title = "Statutární město Brno"
         target = "_blank"
         rel = "noopener noreferrer" > Statutární město Brno < /a><br> <
-            a href = "http://www.frydekmistek.cz/"
+        a href = "http://www.frydekmistek.cz/"
         title = "Statutární město  Frýdek-Místek"
         target = "_blank"
         rel = "noopener noreferrer" > Statutární město Frýdek - Místek < /a><br> <
-            a href = "https://www.msk.cz/"
+        a href = "https://www.msk.cz/"
         title = "Moravskoslezský kraj"
         target = "_blank"
         rel = "noopener noreferrer" > Moravskoslezský kraj < /a><br> <
-            a href = "https://breclav.eu/"
+        a href = "https://breclav.eu/"
         title = "Město Břeclav"
         target = "_blank"
-        rel = "noopener noreferrer" > Město Břeclav < /a><br> <
-            /p></div >
-            <
+        rel = "noopener noreferrer" > Město Břeclav < /a><br> < /
+            p > < /div > <
             /div><div id="text-8" class="one-fourth widget clearfix widget_text"><h5> </h
         5 > < div class = "title-block2" > < /div>			<div class="textwidget"><p> <
-            a href = "http://www.vyskov-mesto.cz/"
+        a href = "http://www.vyskov-mesto.cz/"
         title = "Město Vyškov"
         target = "_blank"
         rel = "noopener noreferrer" > Město Vyškov < /a><br> <
-            a href = "http://www.kraj-jihocesky.cz/"
+        a href = "http://www.kraj-jihocesky.cz/"
         title = "Jihočeský kraj"
         target = "_blank"
         rel = "noopener noreferrer" > Jihočeský kraj < /a><br> <
-            a href = "http://pribram.eu/"
+        a href = "http://pribram.eu/"
         title = "Město Příbram"
         target = "_blank"
         rel = "noopener noreferrer" > Město Příbram < /a><br> <
-            a href = "http://www.nadacecez.cz/"
+        a href = "http://www.nadacecez.cz/"
         title = "Nadace ČEZ"
         target = "_blank"
         rel = "noopener noreferrer" > Nadace ČEZ < /a><br> <
-            a href = "http://www.znojmocity.cz/"
+        a href = "http://www.znojmocity.cz/"
         title = "Město Znojmo"
         target = "_blank"
-        rel = "noopener noreferrer" > Město Znojmo < /a><br> <
-            /p></div >
-            <
+        rel = "noopener noreferrer" > Město Znojmo < /a><br> < /
+            p > < /div > <
             /div>			 <
-            div class = "clearboth" > < /div>
+        div class = "clearboth" > < /div>
 
         <!-- BEGIN .footer-bottom -->
         <
@@ -2714,7 +3071,7 @@ ul.agw-gallery
 
             <
             div class = "footer-social-icons-wrapper" > < /div>			 <
-            p class = "footer-message" > ©2011 - 2020 SeniorPointy.cz a Společně o.p.s. | Všechna práva vyhrazena < /p>
+        p class = "footer-message" > ©2011 - 2020 SeniorPointy.cz a Společně o.p.s. | Všechna práva vyhrazena < /p>
 
         <!-- END .footer-bottom -->
         <
@@ -2739,27 +3096,27 @@ ul.agw-gallery
             <
             div class = "media-frame-title"
         id = "media-frame-title" > < /div> <
-            h2 class = "media-frame-menu-heading" > Akce < /h2> <
-            button type = "button"
+        h2 class = "media-frame-menu-heading" > Akce < /h2> <
+        button type = "button"
         class = "button button-link media-frame-menu-toggle"
         aria - expanded = "false" >
             Menu < span class = "dashicons dashicons-arrow-down"
-        aria - hidden = "true" > < /span> <
-            /button> <
+        aria - hidden = "true" > < /span> < /
+            button > <
             div class = "media-frame-menu" > < /div> <
-            div class = "media-frame-tab-panel" >
+        div class = "media-frame-tab-panel" >
             <
             div class = "media-frame-router" > < /div> <
-            div class = "media-frame-content" > < /div> <
-            /div> <
+        div class = "media-frame-content" > < /div> < /
+            div > <
             h2 class = "media-frame-actions-heading screen-reader-text" >
             Vybrané akce médií < /h2> <
-            div class = "media-frame-toolbar" > < /div> <
-            div class = "media-frame-uploader" > < /div> <
-            /script>
+        div class = "media-frame-toolbar" > < /div> <
+        div class = "media-frame-uploader" > < /div> < /
+            script >
 
-        <
-        script type = "text/html"
+            <
+            script type = "text/html"
         id = "tmpl-media-modal" >
             <
             div tabindex = "0"
@@ -2771,24 +3128,23 @@ ul.agw-gallery
             if (data.hasCloseButton) {# >
                 <
                 button type = "button"
-                class = "media-modal-close" > < span class = "media-modal-icon" > < span class = "screen-reader-text" > Zavřít dialogové okno < /span></span > < /button> <
-                    #
+                class = "media-modal-close" > < span class = "media-modal-icon" > < span class = "screen-reader-text" > Zavřít dialogové okno < /span></span > < /button> <#
             }# >
             <
         div class = "media-modal-content"
-        role = "document" > < /div> <
-            /div> <
-            div class = "media-modal-backdrop" > < /div> <
-            /script>
+        role = "document" > < /div> < /
+            div > <
+            div class = "media-modal-backdrop" > < /div> < /
+            script >
 
-        <
-        script type = "text/html"
+            <
+            script type = "text/html"
         id = "tmpl-uploader-window" >
             <
             div class = "uploader-window-content" >
             <
-            div class = "uploader-editor-title" > Přesuňte zde soubory z počítače < /div> <
-            /div> <
+            div class = "uploader-editor-title" > Přesuňte zde soubory z počítače < /div> < /
+            div > <
             /script>
 
         <
@@ -2797,8 +3153,8 @@ ul.agw-gallery
             <
             div class = "uploader-editor-content" >
             <
-            div class = "uploader-editor-title" > Přesuňte zde soubory z počítače < /div> <
-            /div> <
+            div class = "uploader-editor-title" > Přesuňte zde soubory z počítače < /div> < /
+            div > <
             /script>
 
         <
@@ -2822,20 +3178,20 @@ ul.agw-gallery
             if (data.message) {# >
                 <
                 h2 class = "upload-message" > {
-                        { data.message } } < /h2> <
-                    #
+                    { data.message }
+                } < /h2> <#
             }# >
             <
         div class = "upload-ui" >
             <
             h2 class = "upload-instructions drop-instructions" > Přesuňte zde soubory z počítače < /h2> <
-            p class = "upload-instructions drop-instructions" > nebo < /p> <
-            button type = "button"
-        class = "browser button button-hero" > Vybrat soubory < /button> <
-            /div>
+        p class = "upload-instructions drop-instructions" > nebo < /p> <
+        button type = "button"
+        class = "browser button button-hero" > Vybrat soubory < /button> < /
+            div >
 
-        <
-        div class = "upload-inline-status" > < /div>
+            <
+            div class = "upload-inline-status" > < /div>
 
         <
         div class = "post-upload-ui" >
@@ -2850,17 +3206,18 @@ ul.agw-gallery
             <
             p class = "suggested-dimensions" >
                 Doporučené rozměry obrázku: {
-                    { data.suggestedWidth } }
+                    { data.suggestedWidth }
+                }
             na {
-                { data.suggestedHeight } }
-            pixelů. < /p> <
-                #
+                { data.suggestedHeight }
+            }
+            pixelů. < /p> <#
         }# >
 
         <
-        /div> <
-        /div> <
-        /script>
+        /div> < /
+        div > <
+            /script>
 
         <
         script type = "text/html"
@@ -2869,14 +3226,14 @@ ul.agw-gallery
             a href = "/wp-content/themes/retirement/framework/js/maps.js?ver=5.3.11&#038;mode=list"
         class = "view-list" >
             <
-            span class = "screen-reader-text" > Přehledný seznam < /span> <
-            /a> <
+            span class = "screen-reader-text" > Přehledný seznam < /span> < /
+            a > <
             a href = "/wp-content/themes/retirement/framework/js/maps.js?ver=5.3.11&#038;mode=grid"
         class = "view-grid current"
         aria - current = "page" >
             <
-            span class = "screen-reader-text" > Pravidelná mřížka < /span> <
-            /a> <
+            span class = "screen-reader-text" > Pravidelná mřížka < /span> < /
+            a > <
             /script>
 
         <
@@ -2884,7 +3241,7 @@ ul.agw-gallery
         id = "tmpl-uploader-status" >
             <
             h2 > Nahrávání < /h2> <
-            button type = "button"
+        button type = "button"
         class = "button-link upload-dismiss-errors" > < span class = "screen-reader-text" > Skrýt chyby < /span></button >
 
             <
@@ -2894,27 +3251,30 @@ ul.agw-gallery
             <
             span class = "upload-count" >
             <
-            span class = "upload-index" > < /span> / < span class = "upload-total" > < /span> <
-            /span> <
+            span class = "upload-index" > < /span> / < span class = "upload-total" > < /span> < /
+            span > <
             span class = "upload-detail-separator" > & ndash; < /span> <
-        span class = "upload-filename" > < /span> <
-            /div> <
-            div class = "upload-errors" > < /div> <
-            /script>
+        span class = "upload-filename" > < /span> < /
+            div > <
+            div class = "upload-errors" > < /div> < /
+            script >
 
-        <
-        script type = "text/html"
+            <
+            script type = "text/html"
         id = "tmpl-uploader-status-error" >
             <
             span class = "upload-error-filename" > {
                 {
-                    { data.filename } } } < /span> <
-            span class = "upload-error-message" > {
-                { data.message } } < /span> <
-            /script>
+                    { data.filename }
+                }
+            } < /span> <
+        span class = "upload-error-message" > {
+                { data.message }
+            } < /span> < /
+            script >
 
-        <
-        script type = "text/html"
+            <
+            script type = "text/html"
         id = "tmpl-edit-attachment-frame" >
             <
             div class = "edit-media-header" >
@@ -2926,20 +3286,20 @@ ul.agw-gallery
             if (!data.hasNext) {# > disabled < # }# >> < span class = "screen-reader-text" > Upravit následující mediální soubor < /span></button >
             <
             button type = "button"
-        class = "media-modal-close" > < span class = "media-modal-icon" > < span class = "screen-reader-text" > Zavřít dialogové okno < /span></span > < /button> <
-            /div> <
+        class = "media-modal-close" > < span class = "media-modal-icon" > < span class = "screen-reader-text" > Zavřít dialogové okno < /span></span > < /button> < /
+            div > <
             div class = "media-frame-title" > < /div> <
-            div class = "media-frame-content" > < /div> <
-            /script>
+        div class = "media-frame-content" > < /div> < /
+            script >
 
-        <
-        script type = "text/html"
+            <
+            script type = "text/html"
         id = "tmpl-attachment-details-two-column" >
             <
             div class = "attachment-media-view {{ data.orientation }}" >
             <
             h2 class = "screen-reader-text" > Náhled přílohy < /h2> <
-            div class = "thumbnail thumbnail-{{ data.type }}" >
+        div class = "thumbnail thumbnail-{{ data.type }}" >
             <
             #
             if (data.uploading) {# >
@@ -2988,9 +3348,8 @@ ul.agw-gallery
                 source type = "{{ data.mime }}"
             src = "{{ data.url }}" / >
                 <
-                /audio> <
-                /div> <
-                #
+                /audio> < /
+                div > < #
         } else if ('video' === data.type) {
             var w_rule = '';
             if (data.width) {
@@ -3004,8 +3363,7 @@ ul.agw-gallery
                 <
                 video controls = "controls"
             class = "wp-video-shortcode"
-            preload = "metadata" <
-                #
+            preload = "metadata" < #
                 if (data.width) {# > width = "{{ data.width }}" < # }# >
                 <
                 #
@@ -3017,9 +3375,8 @@ ul.agw-gallery
             source type = "{{ data.mime }}"
             src = "{{ data.url }}" / >
                 <
-                /video> <
-                /div> <
-                #
+                /video> < /
+                div > < #
         }# >
 
         <
@@ -3029,30 +3386,28 @@ ul.agw-gallery
             if ('image' === data.type && !data.uploading && data.sizes && data.can.save) {# >
                 <
                 button type = "button"
-                class = "button edit-attachment" > Upravit obrázek < /button> <
-                    #
+                class = "button edit-attachment" > Upravit obrázek < /button> <#
             } else
         if ('pdf' === data.subtype && data.sizes) {# >
             <
-            p > Náhled dokumentu < /p> <
-                #
+            p > Náhled dokumentu < /p> <#
         }# >
         <
-        /div> <
-        /div> <
-        /div> <
+        /div> < /
+        div > <
+            /div> <
         div class = "attachment-info" >
             <
             span class = "settings-save-status"
         role = "status" >
             <
             span class = "spinner" > < /span> <
-            span class = "saved" > Uloženo. < /span> <
-            /span> <
+        span class = "saved" > Uloženo. < /span> < /
+            span > <
             div class = "details" >
             <
             h2 class = "screen-reader-text" > Detaily < /h2> <
-            div class = "filename" > < strong > Název souboru: < /strong> {{ data.filename }}</div >
+        div class = "filename" > < strong > Název souboru: < /strong> {{ data.filename }}</div >
             <
             div class = "filename" > < strong > Typ souboru: < /strong> {{ data.mime }}</div >
             <
@@ -3067,49 +3422,48 @@ ul.agw-gallery
                 #
                 if (data.width && data.height) {# >
                     <
-                    div class = "dimensions" > < strong > Rozměry: < /strong> {
-                        { data.width } }
-                    x {
-                        { data.height } }
-                    px < /div> <
-                        #
-                }# >
-                <
-                #
+                    div class = "dimensions" > < strong > Rozměry: < /strong> { { data.width }
+                }
+                x {
+                    { data.height }
+                }
+                px < /div> <#
             }# >
-
             <
             #
-        if (data.fileLength && data.fileLengthHumanReadable) {# >
-            <
-            div class = "file-length" > < strong > Délka: < /strong> <
-                span aria - hidden = "true" > {
-                    { data.fileLength } } < /span> <
-                span class = "screen-reader-text" > {
-                    { data.fileLengthHumanReadable } } < /span> <
-                /div> <
-                #
-        }# >
+    }# >
 
-        <
-        #
-        if ('audio' === data.type && data.meta.bitrate) {# >
-            <
-            div class = "bitrate" >
-                <
-                strong > Přenosová rychlost: < /strong> {{ Math.round( data.meta.bitrate /
-            1000)
-    }
-}
-kb / s <
+    <
     #
+    if (data.fileLength && data.fileLengthHumanReadable) {# >
+        <
+        div class = "file-length" > < strong > Délka: < /strong> <
+        span aria - hidden = "true" > {
+            { data.fileLength }
+        } < /span> <
+        span class = "screen-reader-text" > {
+                { data.fileLengthHumanReadable }
+            } < /span> < /
+            div > < #
+    }# >
+
+    <
+    #
+    if ('audio' === data.type && data.meta.bitrate) {# >
+        <
+        div class = "bitrate" >
+            <
+            strong > Přenosová rychlost: < /strong> {{ Math.round( data.meta.bitrate /
+        1000)
+}
+}
+kb / s < #
     if (data.meta.bitrate_mode) {# > {
-            { ' ' + data.meta.bitrate_mode.toUpperCase() } } <
-        #
+            { ' ' + data.meta.bitrate_mode.toUpperCase() }
+        } < #
     }# >
     <
-    /div> <
-    #
+    /div> <#
 }# >
 
 <
@@ -3118,15 +3472,16 @@ div class = "compat-meta" >
     #
     if (data.compat && data.compat.meta) {# > {
             {
-                { data.compat.meta } } } <
-        #
+                { data.compat.meta }
+            }
+        } < #
     }# >
     <
-    /div> <
-    /div>
+    /div> < /
+div >
 
     <
-div class = "settings" >
+    div class = "settings" >
     <
     #
     var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly';# >
@@ -3140,18 +3495,18 @@ if ('image' === data.type) {# >
         label
     for = "attachment-details-two-column-alt-text"
     class = "name" > Alternativní text < /label> <
-        input type = "text"
+    input type = "text"
     id = "attachment-details-two-column-alt-text"
     value = "{{ data.alt }}"
     aria - describedby = "alt-text-description" {
-        { maybeReadOnly } }
-    /> <
-    /span> <
-    p class = "description"
+        { maybeReadOnly }
+    }
+    /> < /
+    span > <
+        p class = "description"
     id = "alt-text-description" > < a href = "https://www.w3.org/WAI/tutorials/images/decision-tree"
     target = "_blank"
-    rel = "noopener noreferrer" > Popište smysl obrázku < span class = "screen-reader-text" > (otevře se na nové záložce) < /span></a > .Nevyplňujte jestli je obrázek čistě dekorativní. < /p> <
-        #
+    rel = "noopener noreferrer" > Popište smysl obrázku < span class = "screen-reader-text" > (otevře se na nové záložce) < /span></a > .Nevyplňujte jestli je obrázek čistě dekorativní. < /p> <#
 }# >
 <
 span class = "setting"
@@ -3160,88 +3515,90 @@ data - setting = "title" >
     label
 for = "attachment-details-two-column-title"
 class = "name" > Název < /label> <
-    input type = "text"
+input type = "text"
 id = "attachment-details-two-column-title"
 value = "{{ data.title }}" {
-    { maybeReadOnly } }
-/> <
-/span> <
-#
-if ('audio' === data.type) {# >
-    <
-    span class = "setting"
-    data - setting = "artist" >
+    { maybeReadOnly }
+}
+/> < /
+span > < #
+    if ('audio' === data.type) {# >
         <
-        label
-    for = "attachment-details-two-column-artist"
-    class = "name" > Autor < /label> <
-        input type = "text"
-    id = "attachment-details-two-column-artist"
-    value = "{{ data.artist || data.meta.artist || '' }}" / >
-        <
-        /span> <
         span class = "setting"
-    data - setting = "album" >
-        <
-        label
-    for = "attachment-details-two-column-album"
-    class = "name" > Album < /label> <
+        data - setting = "artist" >
+            <
+            label
+        for = "attachment-details-two-column-artist"
+        class = "name" > Autor < /label> <
         input type = "text"
-    id = "attachment-details-two-column-album"
-    value = "{{ data.album || data.meta.album || '' }}" / >
-        <
-        /span> <
-        #
-}# >
-<
+        id = "attachment-details-two-column-artist"
+        value = "{{ data.artist || data.meta.artist || '' }}" / >
+            <
+            /span> <
+        span class = "setting"
+        data - setting = "album" >
+            <
+            label
+        for = "attachment-details-two-column-album"
+        class = "name" > Album < /label> <
+        input type = "text"
+        id = "attachment-details-two-column-album"
+        value = "{{ data.album || data.meta.album || '' }}" / >
+            <
+            /span> <#
+    }# >
+    <
 span class = "setting"
 data - setting = "caption" >
     <
     label
 for = "attachment-details-two-column-caption"
 class = "name" > Titulek < /label> <
-    textarea id = "attachment-details-two-column-caption" {
-        { maybeReadOnly } } > {
-        { data.caption } } < /textarea> <
-    /span> <
+textarea id = "attachment-details-two-column-caption" {
+        { maybeReadOnly }
+    } > {
+        { data.caption }
+    } < /textarea> < /
+    span > <
     span class = "setting"
 data - setting = "description" >
     <
     label
 for = "attachment-details-two-column-description"
 class = "name" > Popis < /label> <
-    textarea id = "attachment-details-two-column-description" {
-        { maybeReadOnly } } > {
-        { data.description } } < /textarea> <
-    /span> <
+textarea id = "attachment-details-two-column-description" {
+        { maybeReadOnly }
+    } > {
+        { data.description }
+    } < /textarea> < /
+    span > <
     span class = "setting" >
     <
     span class = "name" > Nahrál uživatel < /span> <
-    span class = "value" > {
-        { data.authorName } } < /span> <
-    /span> <
-    #
+span class = "value" > {
+        { data.authorName }
+    } < /span> < /
+    span > < #
     if (data.uploadedToTitle) {# >
         <
         span class = "setting" >
             <
-            span class = "name" > Přiřazeno < /span> <
-            #
-            if (data.uploadedToLink) {# >
-                <
-                span class = "value" > < a href = "{{ data.uploadedToLink }}" > {
-                        { data.uploadedToTitle } } < /a></span >
-                    <
-                    #
-            } else {# >
-                <
-                span class = "value" > {
-                        { data.uploadedToTitle } } < /span> <
-                    #
-            }# >
+            span class = "name" > Přiřazeno < /span> <#
+        if (data.uploadedToLink) {# >
             <
-            /span> <
-            #
+            span class = "value" > < a href = "{{ data.uploadedToLink }}" > {
+                    { data.uploadedToTitle }
+                } < /a></span >
+                <
+                #
+        } else {# >
+            <
+            span class = "value" > {
+                { data.uploadedToTitle }
+            } < /span> <#
+        }# >
+        <
+        /span> <#
     }# >
     <
 span class = "setting"
@@ -3250,38 +3607,35 @@ data - setting = "url" >
     label
 for = "attachment-details-two-column-copy-link"
 class = "name" > Kopírovat odkaz < /label> <
-    input type = "text"
+input type = "text"
 id = "attachment-details-two-column-copy-link"
 value = "{{ data.url }}"
 readonly / >
     <
     /span> <
-    div class = "attachment-compat" > < /div> <
-    /div>
+div class = "attachment-compat" > < /div> < /
+    div >
 
-<
-div class = "actions" >
+    <
+    div class = "actions" >
     <
     a class = "view-attachment"
-href = "{{ data.link }}" > Stránka se zobrazením souboru < /a> <
-    #
-    if (data.can.save) {# > |
-        <
-        a href = "{{ data.editLink }}" > Upravit další informace < /a> <
-            #
-    }# >
+href = "{{ data.link }}" > Stránka se zobrazením souboru < /a> <#
+if (data.can.save) {# > |
     <
-    #
+    a href = "{{ data.editLink }}" > Upravit další informace < /a> <#
+}# >
+<
+#
 if (!data.uploading && data.can.remove) {# > |
     <
     button type = "button"
-    class = "button-link delete-attachment" > Smazat < /button> <
-        #
+    class = "button-link delete-attachment" > Smazat < /button> <#
 }# >
 <
-/div> <
-/div> <
-/script>
+/div> < /
+div > <
+    /script>
 
 <
 script type = "text/html"
@@ -3306,8 +3660,7 @@ if ('image' === data.type && data.sizes) {# >
     draggable = "false"
     alt = "" / >
         <
-        /div> <
-        #
+        /div> <#
 } else {# >
     <
     div class = "centered" >
@@ -3344,13 +3697,12 @@ if ('image' === data.type && data.sizes) {# >
     div class = "filename" >
         <
         div > {
-            { data.filename } } < /div> <
-        /div> <
-        #
+            { data.filename }
+        } < /div> < /
+        div > < #
 }# >
 <
-/div> <
-#
+/div> <#
 if (data.buttons.close) {# >
     <
     button type = "button"
@@ -3359,14 +3711,12 @@ if (data.buttons.close) {# >
         #
 }# >
 <
-/div> <
-#
+/div> <#
 if (data.buttons.check) {# >
     <
     button type = "button"
     class = "check"
-    tabindex = "-1" > < span class = "media-modal-icon" > < /span><span class="screen-reader-text">Odebrat</span > < /button> <
-        #
+    tabindex = "-1" > < span class = "media-modal-icon" > < /span><span class="screen-reader-text">Odebrat</span > < /button> <#
 }# >
 <
 #
@@ -3380,33 +3730,29 @@ if (data.describe) {
         data - setting = "caption"
         aria - label = "Titulek"
         placeholder = "Titulek&hellip;" {
-            { maybeReadOnly } }
-        /> <
-        #
+            { maybeReadOnly }
+        }
+        /> <#
     } else {# >
         <
         input type = "text"
         value = "{{ data.title }}"
         class = "describe"
-        data - setting = "title" <
-            #
+        data - setting = "title" < #
             if ('video' === data.type) {# >
                 aria - label = "Název videa"
-                placeholder = "Název videa&hellip;" <
-                    #
+                placeholder = "Název videa&hellip;" < #
             } else
         if ('audio' === data.type) {# >
             aria - label = "Název audia"
-            placeholder = "Název audia&hellip;" <
-                #
+            placeholder = "Název audia&hellip;" < #
         } else {# >
             aria - label = "Název mediálního souboru"
-            placeholder = "Název mediálního souboru&hellip;" <
-                #
+            placeholder = "Název mediálního souboru&hellip;" < #
         }# > {
-            { maybeReadOnly } }
-        /> <
-        #
+            { maybeReadOnly }
+        }
+        /> <#
     }
 }# >
 <
@@ -3421,10 +3767,10 @@ id = "tmpl-attachment-details" >
 role = "status" >
     <
     span class = "spinner" > < /span> <
-    span class = "saved" > Uloženo. < /span> <
-    /span> <
+span class = "saved" > Uloženo. < /span> < /
+    span > <
     /h2> <
-    div class = "attachment-info" >
+div class = "attachment-info" >
     <
     div class = "thumbnail thumbnail-{{ data.type }}" >
     <
@@ -3456,50 +3802,53 @@ if ('image' === data.type && data.sizes) {# >
 div class = "details" >
     <
     div class = "filename" > {
-        { data.filename } } < /div> <
-    div class = "uploaded" > {
-        { data.dateFormatted } } < /div>
+        { data.filename }
+    } < /div> <
+div class = "uploaded" > {
+    { data.dateFormatted }
+} < /div>
 
 <
 div class = "file-size" > {
-        { data.filesizeHumanReadable } } < /div> <
+    { data.filesizeHumanReadable }
+} < /div> <#
+if ('image' === data.type && !data.uploading) {# >
+    <
     #
-    if ('image' === data.type && !data.uploading) {# >
+    if (data.width && data.height) {# >
         <
-        #
-        if (data.width && data.height) {# >
-            <
-            div class = "dimensions" > {
-                { data.width } }
-            x {
-                { data.height } }
-            px < /div> <
-                #
-        }# >
-
-        <
-        #
-        if (data.can.save && data.sizes) {# >
-            <
-            a class = "edit-attachment"
-            href = "{{ data.editLink }}&amp;image-editor"
-            target = "_blank" > Upravit obrázek < /a> <
-                #
-        }# >
-        <
-        #
+        div class = "dimensions" > {
+            { data.width }
+        }
+        x {
+            { data.height }
+        }
+        px < /div> <#
     }# >
 
     <
     #
+    if (data.can.save && data.sizes) {# >
+        <
+        a class = "edit-attachment"
+        href = "{{ data.editLink }}&amp;image-editor"
+        target = "_blank" > Upravit obrázek < /a> <#
+    }# >
+    <
+    #
+}# >
+
+<
+#
 if (data.fileLength && data.fileLengthHumanReadable) {# >
     <
     div class = "file-length" > Délka: < span aria - hidden = "true" > {
-            { data.fileLength } } < /span> <
-        span class = "screen-reader-text" > {
-            { data.fileLengthHumanReadable } } < /span> <
-        /div> <
-        #
+        { data.fileLength }
+    } < /span> <
+    span class = "screen-reader-text" > {
+            { data.fileLengthHumanReadable }
+        } < /span> < /
+        div > < #
 }# >
 
 <
@@ -3507,8 +3856,7 @@ if (data.fileLength && data.fileLengthHumanReadable) {# >
 if (!data.uploading && data.can.remove) {# >
     <
     button type = "button"
-    class = "button-link delete-attachment" > Smazat < /button> <
-        #
+    class = "button-link delete-attachment" > Smazat < /button> <#
 }# >
 
 <
@@ -3517,14 +3865,14 @@ div class = "compat-meta" >
     #
     if (data.compat && data.compat.meta) {# > {
             {
-                { data.compat.meta } } } <
-        #
+                { data.compat.meta }
+            }
+        } < #
     }# >
     <
-    /div> <
-    /div> <
-    /div> <
-    #
+    /div> < /
+div > <
+    /div> <#
 var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly';# >
 <
 #
@@ -3536,18 +3884,18 @@ if ('image' === data.type) {# >
         label
     for = "attachment-details-alt-text"
     class = "name" > Alternativní text < /label> <
-        input type = "text"
+    input type = "text"
     id = "attachment-details-alt-text"
     value = "{{ data.alt }}"
     aria - describedby = "alt-text-description" {
-        { maybeReadOnly } }
-    /> <
-    /span> <
-    p class = "description"
+        { maybeReadOnly }
+    }
+    /> < /
+    span > <
+        p class = "description"
     id = "alt-text-description" > < a href = "https://www.w3.org/WAI/tutorials/images/decision-tree"
     target = "_blank"
-    rel = "noopener noreferrer" > Popište smysl obrázku < span class = "screen-reader-text" > (otevře se na nové záložce) < /span></a > .Nevyplňujte jestli je obrázek čistě dekorativní. < /p> <
-        #
+    rel = "noopener noreferrer" > Popište smysl obrázku < span class = "screen-reader-text" > (otevře se na nové záložce) < /span></a > .Nevyplňujte jestli je obrázek čistě dekorativní. < /p> <#
 }# >
 <
 span class = "setting"
@@ -3556,103 +3904,103 @@ data - setting = "title" >
     label
 for = "attachment-details-title"
 class = "name" > Název < /label> <
-    input type = "text"
+input type = "text"
 id = "attachment-details-title"
 value = "{{ data.title }}" {
-    { maybeReadOnly } }
-/> <
-/span> <
-#
-if ('audio' === data.type) {# >
-    <
-    span class = "setting"
-    data - setting = "artist" >
+    { maybeReadOnly }
+}
+/> < /
+span > < #
+    if ('audio' === data.type) {# >
         <
-        label
-    for = "attachment-details-artist"
-    class = "name" > Autor < /label> <
-        input type = "text"
-    id = "attachment-details-artist"
-    value = "{{ data.artist || data.meta.artist || '' }}" / >
-        <
-        /span> <
         span class = "setting"
-    data - setting = "album" >
-        <
-        label
-    for = "attachment-details-album"
-    class = "name" > Album < /label> <
+        data - setting = "artist" >
+            <
+            label
+        for = "attachment-details-artist"
+        class = "name" > Autor < /label> <
         input type = "text"
-    id = "attachment-details-album"
-    value = "{{ data.album || data.meta.album || '' }}" / >
-        <
-        /span> <
-        #
-}# >
-<
+        id = "attachment-details-artist"
+        value = "{{ data.artist || data.meta.artist || '' }}" / >
+            <
+            /span> <
+        span class = "setting"
+        data - setting = "album" >
+            <
+            label
+        for = "attachment-details-album"
+        class = "name" > Album < /label> <
+        input type = "text"
+        id = "attachment-details-album"
+        value = "{{ data.album || data.meta.album || '' }}" / >
+            <
+            /span> <#
+    }# >
+    <
 span class = "setting"
 data - setting = "caption" >
     <
     label
 for = "attachment-details-caption"
 class = "name" > Titulek < /label> <
-    textarea id = "attachment-details-caption" {
-        { maybeReadOnly } } > {
-        { data.caption } } < /textarea> <
-    /span> <
+textarea id = "attachment-details-caption" {
+        { maybeReadOnly }
+    } > {
+        { data.caption }
+    } < /textarea> < /
+    span > <
     span class = "setting"
 data - setting = "description" >
     <
     label
 for = "attachment-details-description"
 class = "name" > Popis < /label> <
-    textarea id = "attachment-details-description" {
-        { maybeReadOnly } } > {
-        { data.description } } < /textarea> <
-    /span> <
+textarea id = "attachment-details-description" {
+        { maybeReadOnly }
+    } > {
+        { data.description }
+    } < /textarea> < /
+    span > <
     span class = "setting"
 data - setting = "url" >
     <
     label
 for = "attachment-details-copy-link"
 class = "name" > Kopírovat odkaz < /label> <
-    input type = "text"
+input type = "text"
 id = "attachment-details-copy-link"
 value = "{{ data.url }}"
 readonly / >
     <
-    /span> <
-    /script>
+    /span> < /
+    script >
 
-<
-script type = "text/html"
+    <
+    script type = "text/html"
 id = "tmpl-media-selection" >
     <
     div class = "selection-info" >
     <
-    span class = "count" > < /span> <
-    #
-    if (data.editable) {# >
-        <
-        button type = "button"
-        class = "button-link edit-selection" > Upravit výběr < /button> <
-            #
-    }# >
+    span class = "count" > < /span> <#
+if (data.editable) {# >
     <
-    #
+    button type = "button"
+    class = "button-link edit-selection" > Upravit výběr < /button> <#
+}# >
+<
+#
 if (data.clearable) {# >
     <
     button type = "button"
-    class = "button-link clear-selection" > Vymazat < /button> <
-        #
+    class = "button-link clear-selection" > Vymazat < /button> <#
 }# >
 <
 /div> <
-div class = "selection-view" > < /div> <
-    /script>
+div class = "selection-view" > < /div> < /
+    script >
 
-<
-script type = "text/html"
+    <
+    script type = "text/html"
 id = "tmpl-attachment-display-settings" >
     <
     h2 > Nastavení zobrazení souboru < /h2>
@@ -3666,28 +4014,25 @@ if ('image' === data.type) {# >
         label
     for = "attachment-display-settings-alignment"
     class = "name" > Zarovnání < /label> <
-        select id = "attachment-display-settings-alignment"
+    select id = "attachment-display-settings-alignment"
     class = "alignment"
-    data - setting = "align" <
-        #
+    data - setting = "align" < #
         if (data.userSettings) {# >
-            data - user - setting = "align" <
-                #
+            data - user - setting = "align" < #
         }# >>
 
         <
     option value = "left" >
         Doleva < /option> <
-        option value = "center" >
+    option value = "center" >
         Na střed < /option> <
-        option value = "right" >
+    option value = "right" >
         Doprava < /option> <
-        option value = "none"
+    option value = "none"
     selected >
-        Žádná < /option> <
-        /select> <
-        /span> <
-        #
+        Žádná < /option> < /
+        select > <
+        /span> <#
 }# >
 
 <
@@ -3707,11 +4052,9 @@ class = "name" >
     /label> <
 select id = "attachment-display-settings-link-to"
 class = "link-to"
-data - setting = "link" <
-    #
+data - setting = "link" < #
     if (data.userSettings && !data.model.canEmbed) {# >
-        data - user - setting = "urlbutton" <
-            #
+        data - user - setting = "urlbutton" < #
     }# >>
 
     <
@@ -3721,7 +4064,7 @@ if (data.model.canEmbed) {# >
     option value = "embed"
     selected >
         Použít mediální přehrávač < /option> <
-        option value = "file" >
+    option value = "file" >
         <
         #
 } else {# >
@@ -3729,7 +4072,7 @@ if (data.model.canEmbed) {# >
     option value = "none"
     selected >
         Žádná < /option> <
-        option value = "file" >
+    option value = "file" >
         <
         #
 }# >
@@ -3751,23 +4094,21 @@ option value = "post" >
         Stránku se zobrazením souboru < #
     }# >
     <
-    /option> <
-    #
+    /option> <#
 if ('image' === data.type) {# >
     <
     option value = "custom" >
-        Vlastní URL < /option> <
-        #
+        Vlastní URL < /option> <#
 }# >
 <
-/select> <
-/span> <
-span class = "setting" >
+/select> < /
+span > <
+    span class = "setting" >
     <
     label
 for = "attachment-display-settings-link-to-custom"
 class = "name" > URL < /label> <
-    input type = "text"
+input type = "text"
 id = "attachment-display-settings-link-to-custom"
 class = "link-to-custom"
 data - setting = "linkUrl" / >
@@ -3783,14 +4124,12 @@ if ('undefined' !== typeof data.sizes) {# >
         label
     for = "attachment-display-settings-size"
     class = "name" > Velikost < /label> <
-        select id = "attachment-display-settings-size"
+    select id = "attachment-display-settings-size"
     class = "size"
     name = "size"
-    data - setting = "size" <
-        #
+    data - setting = "size" < #
         if (data.userSettings) {# >
-            data - user - setting = "imgsize" <
-                #
+            data - user - setting = "imgsize" < #
         }# >>
         <
         #
@@ -3799,10 +4138,11 @@ if ('undefined' !== typeof data.sizes) {# >
         <
         option value = "thumbnail" >
             Náhled & ndash; {
-            { size.width } } & times; {
-            { size.height } } <
-        /option> <
-        #
+            { size.width }
+        } & times; {
+            { size.height }
+        } <
+        /option> <#
     }# >
     <
     #
@@ -3811,10 +4151,11 @@ if ('undefined' !== typeof data.sizes) {# >
         <
         option value = "medium" >
             Střední & ndash; {
-            { size.width } } & times; {
-            { size.height } } <
-        /option> <
-        #
+            { size.width }
+        } & times; {
+            { size.height }
+        } <
+        /option> <#
     }# >
     <
     #
@@ -3823,10 +4164,11 @@ if ('undefined' !== typeof data.sizes) {# >
         <
         option value = "large" >
             Velká & ndash; {
-            { size.width } } & times; {
-            { size.height } } <
-        /option> <
-        #
+            { size.width }
+        } & times; {
+            { size.height }
+        } <
+        /option> <#
     }# >
     <
     #
@@ -3836,15 +4178,15 @@ if ('undefined' !== typeof data.sizes) {# >
         option value = "full"
         selected = 'selected' >
             Původní velikost & ndash; {
-            { size.width } } & times; {
-            { size.height } } <
-        /option> <
-        #
+            { size.width }
+        } & times; {
+            { size.height }
+        } <
+        /option> <#
     }# >
     <
-    /select> <
-    /span> <
-    #
+    /select> < /
+    span > < #
 }# >
 <
 /script>
@@ -3861,26 +4203,24 @@ span class = "setting" >
     label
 for = "gallery-settings-link-to"
 class = "name" > Odkazovat na < /label> <
-    select id = "gallery-settings-link-to"
+select id = "gallery-settings-link-to"
 class = "link-to"
-data - setting = "link" <
-    #
+data - setting = "link" < #
     if (data.userSettings) {# >
-        data - user - setting = "urlbutton" <
-            #
+        data - user - setting = "urlbutton" < #
     }# >>
 
     <
 option value = "post" < #
     if (!wp.media.galleryDefaults.link || 'post' == wp.media.galleryDefaults.link) {# > selected = "selected" < # }# >>
 Stránku se zobrazením souboru < /option> <
-    option value = "file" < #
+option value = "file" < #
     if ('file' == wp.media.galleryDefaults.link) {# > selected = "selected" < # }# >>
 Mediální soubor < /option> <
-    option value = "none" < #
+option value = "none" < #
     if ('none' == wp.media.galleryDefaults.link) {# > selected = "selected" < # }# >>
-Žádná < /option> <
-    /select> <
+Žádná < /option> < /
+    select > <
     /span>
 
 <
@@ -3889,7 +4229,7 @@ span class = "setting" >
     label
 for = "gallery-settings-columns"
 class = "name select-label-inline" > Sloupce < /label> <
-    select id = "gallery-settings-columns"
+select id = "gallery-settings-columns"
 class = "columns"
 name = "columns"
 data - setting = "columns" >
@@ -3897,31 +4237,31 @@ data - setting = "columns" >
     option value = "1" < #
     if (1 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
 1 < /option> <
-    option value = "2" < #
+option value = "2" < #
     if (2 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
 2 < /option> <
-    option value = "3" < #
+option value = "3" < #
     if (3 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
 3 < /option> <
-    option value = "4" < #
+option value = "4" < #
     if (4 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
 4 < /option> <
-    option value = "5" < #
+option value = "5" < #
     if (5 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
 5 < /option> <
-    option value = "6" < #
+option value = "6" < #
     if (6 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
 6 < /option> <
-    option value = "7" < #
+option value = "7" < #
     if (7 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
 7 < /option> <
-    option value = "8" < #
+option value = "8" < #
     if (8 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
 8 < /option> <
-    option value = "9" < #
+option value = "9" < #
     if (9 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
-9 < /option> <
-    /select> <
+9 < /option> < /
+    select > <
     /span>
 
 <
@@ -3933,40 +4273,38 @@ data - setting = "_orderbyRandom" / >
     <
     label
 for = "gallery-settings-random-order"
-class = "checkbox-label-inline" > Náhodné pořadí < /label> <
-    /span>
+class = "checkbox-label-inline" > Náhodné pořadí < /label> < /
+    span >
 
-<
-span class = "setting size" >
+    <
+    span class = "setting size" >
     <
     label
 for = "gallery-settings-size"
 class = "name" > Velikost < /label> <
-    select id = "gallery-settings-size"
+select id = "gallery-settings-size"
 class = "size"
 name = "size"
-data - setting = "size" <
-    #
+data - setting = "size" < #
     if (data.userSettings) {# >
-        data - user - setting = "imgsize" <
-            #
+        data - user - setting = "imgsize" < #
     }# >
     >
     <
 option value = "thumbnail" >
     Náhled < /option> <
-    option value = "medium" >
+option value = "medium" >
     Střední < /option> <
-    option value = "large" >
+option value = "large" >
     Velká < /option> <
-    option value = "full" >
-    Původní velikost < /option> <
-    /select> <
-    /span> <
-    /script>
+option value = "full" >
+    Původní velikost < /option> < /
+    select > <
+    /span> < /
+    script >
 
-<
-script type = "text/html"
+    <
+    script type = "text/html"
 id = "tmpl-playlist-settings" >
     <
     h2 > Nastavení zobrazených informací < /h2>
@@ -3983,8 +4321,7 @@ span class = "setting" >
 id = "playlist-settings-show-list"
 data - setting = "tracklist" < #
     if (emptyModel) {# >
-        checked = "checked" <
-            #
+        checked = "checked" < #
     }# > /> <
 label
 for = "playlist-settings-show-list"
@@ -3997,45 +4334,42 @@ class = "checkbox-label-inline" >
         Zobrazit seznam audio souborů < #
     }# >
     <
-    /label> <
-    /span>
+    /label> < /
+span >
 
     <
     #
-if (!isVideo) {# >
-    <
-    span class = "setting" >
+    if (!isVideo) {# >
         <
-        input type = "checkbox"
-    id = "playlist-settings-show-artist"
-    data - setting = "artists" < #
-        if (emptyModel) {# >
-            checked = "checked" <
-                #
-        }# > /> <
-    label
-    for = "playlist-settings-show-artist"
-    class = "checkbox-label-inline" >
-        Zobrazit autora v seznamu souborů < /label> <
-        /span> <
-        #
-}# >
+        span class = "setting" >
+            <
+            input type = "checkbox"
+        id = "playlist-settings-show-artist"
+        data - setting = "artists" < #
+            if (emptyModel) {# >
+                checked = "checked" < #
+            }# > /> <
+        label
+        for = "playlist-settings-show-artist"
+        class = "checkbox-label-inline" >
+            Zobrazit autora v seznamu souborů < /label> < /
+            span > < #
+    }# >
 
-<
+    <
 span class = "setting" >
     <
     input type = "checkbox"
 id = "playlist-settings-show-images"
 data - setting = "images" < #
     if (emptyModel) {# >
-        checked = "checked" <
-            #
+        checked = "checked" < #
     }# > /> <
 label
 for = "playlist-settings-show-images"
 class = "checkbox-label-inline" >
-    Zobrazit náhledový obrázek < /label> <
-    /span> <
+    Zobrazit náhledový obrázek < /label> < /
+    span > <
     /script>
 
 <
@@ -4047,17 +4381,17 @@ id = "tmpl-embed-link-settings" >
     label
 for = "embed-link-settings-link-text"
 class = "name" > Text odkazu < /label> <
-    input type = "text"
+input type = "text"
 id = "embed-link-settings-link-text"
 class = "alignment"
 data - setting = "linkText" / >
     <
     /span> <
-    div class = "embed-container"
+div class = "embed-container"
 style = "display: none;" >
     <
-    div class = "embed-preview" > < /div> <
-    /div> <
+    div class = "embed-preview" > < /div> < /
+    div > <
     /script>
 
 <
@@ -4072,22 +4406,22 @@ id = "tmpl-embed-image-settings" >
 draggable = "false"
 alt = "" / >
     <
-    /div> <
-    /div>
+    /div> < /
+    div >
 
-<
-span class = "setting alt-text has-description" >
+    <
+    span class = "setting alt-text has-description" >
     <
     label
 for = "embed-image-settings-alt-text"
 class = "name" > Alternativní text < /label> <
-    input type = "text"
+input type = "text"
 id = "embed-image-settings-alt-text"
 data - setting = "alt"
 aria - describedby = "alt-text-description" / >
     <
     /span> <
-    p class = "description"
+p class = "description"
 id = "alt-text-description" > < a href = "https://www.w3.org/WAI/tutorials/images/decision-tree"
 target = "_blank"
 rel = "noopener noreferrer" > Popište smysl obrázku < span class = "screen-reader-text" > (otevře se na nové záložce) < /span></a > .Nevyplňujte jestli je obrázek čistě dekorativní. < /p>
@@ -4098,7 +4432,7 @@ span class = "setting caption" >
     label
 for = "embed-image-settings-caption"
 class = "name" > Titulek < /label> <
-    textarea id = "embed-image-settings-caption"
+textarea id = "embed-image-settings-caption"
 data - setting = "caption" / >
     <
     /span>
@@ -4107,7 +4441,7 @@ data - setting = "caption" / >
 fieldset class = "setting-group" >
     <
     legend class = "name" > Zarovnání < /legend> <
-    span class = "setting align" >
+span class = "setting align" >
     <
     span class = "button-group button-large"
 data - setting = "align" >
@@ -4115,24 +4449,24 @@ data - setting = "align" >
     button class = "button"
 value = "left" >
     Doleva < /button> <
-    button class = "button"
+button class = "button"
 value = "center" >
     Na střed < /button> <
-    button class = "button"
+button class = "button"
 value = "right" >
     Doprava < /button> <
-    button class = "button active"
+button class = "button active"
 value = "none" >
-    Žádná < /button> <
-    /span> <
-    /span> <
-    /fieldset>
+    Žádná < /button> < /
+    span > <
+    /span> < /
+    fieldset >
 
-<
-fieldset class = "setting-group" >
+    <
+    fieldset class = "setting-group" >
     <
     legend class = "name" > Odkazovat na < /legend> <
-    span class = "setting link-to" >
+span class = "setting link-to" >
     <
     span class = "button-group button-large"
 data - setting = "link" >
@@ -4140,26 +4474,26 @@ data - setting = "link" >
     button class = "button"
 value = "file" >
     URL obrázku < /button> <
-    button class = "button"
+button class = "button"
 value = "custom" >
     Vlastní URL < /button> <
-    button class = "button active"
+button class = "button active"
 value = "none" >
-    Žádná < /button> <
+    Žádná < /button> < /
+    span > <
     /span> <
-    /span> <
-    span class = "setting" >
+span class = "setting" >
     <
     label
 for = "embed-image-settings-link-to-custom"
 class = "name" > URL < /label> <
-    input type = "text"
+input type = "text"
 id = "embed-image-settings-link-to-custom"
 class = "link-to-custom"
 data - setting = "linkUrl" / >
     <
-    /span> <
-    /fieldset> <
+    /span> < /
+    fieldset > <
     /script>
 
 <
@@ -4177,14 +4511,14 @@ id = "tmpl-image-details" >
     label
 for = "image-details-alt-text"
 class = "name" > Alternativní text < /label> <
-    input type = "text"
+input type = "text"
 id = "image-details-alt-text"
 data - setting = "alt"
 value = "{{ data.model.alt }}"
 aria - describedby = "alt-text-description" / >
     <
     /span> <
-    p class = "description"
+p class = "description"
 id = "alt-text-description" > < a href = "https://www.w3.org/WAI/tutorials/images/decision-tree"
 target = "_blank"
 rel = "noopener noreferrer" > Popište smysl obrázku < span class = "screen-reader-text" > (otevře se na nové záložce) < /span></a > .Nevyplňujte jestli je obrázek čistě dekorativní. < /p>
@@ -4195,17 +4529,18 @@ span class = "setting caption" >
     label
 for = "image-details-caption"
 class = "name" > Titulek < /label> <
-    textarea id = "image-details-caption"
+textarea id = "image-details-caption"
 data - setting = "caption" > {
-        { data.model.caption } } < /textarea> <
-    /span>
+        { data.model.caption }
+    } < /textarea> < /
+    span >
 
-<
-h2 > Nastavení zobrazení souboru < /h2> <
-    fieldset class = "setting-group" >
+    <
+    h2 > Nastavení zobrazení souboru < /h2> <
+fieldset class = "setting-group" >
     <
     legend class = "legend-inline" > Zarovnání < /legend> <
-    span class = "setting align" >
+span class = "setting align" >
     <
     span class = "button-group button-large"
 data - setting = "align" >
@@ -4213,137 +4548,137 @@ data - setting = "align" >
     button class = "button"
 value = "left" >
     Doleva < /button> <
-    button class = "button"
+button class = "button"
 value = "center" >
     Na střed < /button> <
-    button class = "button"
+button class = "button"
 value = "right" >
     Doprava < /button> <
-    button class = "button active"
+button class = "button active"
 value = "none" >
-    Žádná < /button> <
-    /span> <
-    /span> <
-    /fieldset>
+    Žádná < /button> < /
+    span > <
+    /span> < /
+    fieldset >
 
-<
-#
-if (data.attachment) {# >
     <
     #
-    if ('undefined' !== typeof data.attachment.sizes) {# >
+    if (data.attachment) {# >
         <
-        span class = "setting size" >
+        #
+        if ('undefined' !== typeof data.attachment.sizes) {# >
+            <
+            span class = "setting size" >
+                <
+                label
+            for = "image-details-size"
+            class = "name" > Velikost < /label> <
+            select id = "image-details-size"
+            class = "size"
+            name = "size"
+            data - setting = "size" < #
+                if (data.userSettings) {# >
+                    data - user - setting = "imgsize" < #
+                }# >>
+                <
+                #
+            var size = data.sizes['thumbnail'];
+            if (size) {# >
+                <
+                option value = "thumbnail" >
+                    Náhled & ndash; {
+                    { size.width }
+                } & times; {
+                    { size.height }
+                } <
+                /option> <#
+            }# >
+            <
+            #
+            var size = data.sizes['medium'];
+            if (size) {# >
+                <
+                option value = "medium" >
+                    Střední & ndash; {
+                    { size.width }
+                } & times; {
+                    { size.height }
+                } <
+                /option> <#
+            }# >
+            <
+            #
+            var size = data.sizes['large'];
+            if (size) {# >
+                <
+                option value = "large" >
+                    Velká & ndash; {
+                    { size.width }
+                } & times; {
+                    { size.height }
+                } <
+                /option> <#
+            }# >
+            <
+            #
+            var size = data.sizes['full'];
+            if (size) {# >
+                <
+                option value = "full" >
+                    Původní velikost & ndash; {
+                    { size.width }
+                } & times; {
+                    { size.height }
+                } <
+                /option> <#
+            }# >
+            <
+            option value = "custom" >
+                Vlastní velikost < /option> < /
+                select > <
+                /span> <#
+        }# >
+        <
+        div class = "custom-size wp-clearfix<# if ( data.model.size !== 'custom' ) { #> hidden<# } #>" >
+            <
+            span class = "custom-size-setting" >
             <
             label
-        for = "image-details-size"
-        class = "name" > Velikost < /label> <
-            select id = "image-details-size"
-        class = "size"
-        name = "size"
-        data - setting = "size" <
-            #
-            if (data.userSettings) {# >
-                data - user - setting = "imgsize" <
-                    #
-            }# >>
+        for = "image-details-size-width" > Šířka < /label> <
+        input type = "number"
+        id = "image-details-size-width"
+        aria - describedby = "image-size-desc"
+        data - setting = "customWidth"
+        step = "1"
+        value = "{{ data.model.customWidth }}" / >
             <
-            #
-        var size = data.sizes['thumbnail'];
-        if (size) {# >
-            <
-            option value = "thumbnail" >
-                Náhled & ndash; {
-                { size.width } } & times; {
-                { size.height } } <
-            /option> <
-            #
-        }# >
-        <
-        #
-        var size = data.sizes['medium'];
-        if (size) {# >
-            <
-            option value = "medium" >
-                Střední & ndash; {
-                { size.width } } & times; {
-                { size.height } } <
-            /option> <
-            #
-        }# >
-        <
-        #
-        var size = data.sizes['large'];
-        if (size) {# >
-            <
-            option value = "large" >
-                Velká & ndash; {
-                { size.width } } & times; {
-                { size.height } } <
-            /option> <
-            #
-        }# >
-        <
-        #
-        var size = data.sizes['full'];
-        if (size) {# >
-            <
-            option value = "full" >
-                Původní velikost & ndash; {
-                { size.width } } & times; {
-                { size.height } } <
-            /option> <
-            #
-        }# >
-        <
-        option value = "custom" >
-            Vlastní velikost < /option> <
-            /select> <
             /span> <
-            #
-    }# >
-    <
-    div class = "custom-size wp-clearfix<# if ( data.model.size !== 'custom' ) { #> hidden<# } #>" >
-        <
-        span class = "custom-size-setting" >
-        <
-        label
-    for = "image-details-size-width" > Šířka < /label> <
-        input type = "number"
-    id = "image-details-size-width"
-    aria - describedby = "image-size-desc"
-    data - setting = "customWidth"
-    step = "1"
-    value = "{{ data.model.customWidth }}" / >
-        <
-        /span> <
         span class = "sep"
-    aria - hidden = "true" > & times; < /span> <
-    span class = "custom-size-setting" >
-        <
-        label
-    for = "image-details-size-height" > Výška < /label> <
+        aria - hidden = "true" > & times; < /span> <
+        span class = "custom-size-setting" >
+            <
+            label
+        for = "image-details-size-height" > Výška < /label> <
         input type = "number"
-    id = "image-details-size-height"
-    aria - describedby = "image-size-desc"
-    data - setting = "customHeight"
-    step = "1"
-    value = "{{ data.model.customHeight }}" / >
-        <
-        /span> <
+        id = "image-details-size-height"
+        aria - describedby = "image-size-desc"
+        data - setting = "customHeight"
+        step = "1"
+        value = "{{ data.model.customHeight }}" / >
+            <
+            /span> <
         p id = "image-size-desc"
-    class = "description" > Velikost obrázku v pixelech < /p> <
-        /div> <
-        #
-}# >
+        class = "description" > Velikost obrázku v pixelech < /p> < /
+            div > < #
+    }# >
 
-<
+    <
 span class = "setting link-to" >
     <
     label
 for = "image-details-link-to"
 class = "name" > Odkazovat na < /label> <
-    select id = "image-details-link-to"
+select id = "image-details-link-to"
 data - setting = "link" >
     <
     #
@@ -4351,28 +4686,26 @@ data - setting = "link" >
         <
         option value = "file" >
             Mediální soubor < /option> <
-            option value = "post" >
-            Stránku se zobrazením souboru < /option> <
-            #
+        option value = "post" >
+            Stránku se zobrazením souboru < /option> <#
     } else {# >
         <
         option value = "file" >
-            URL obrázku < /option> <
-            #
+            URL obrázku < /option> <#
     }# >
     <
 option value = "custom" >
     Vlastní URL < /option> <
-    option value = "none" >
-    Žádná < /option> <
-    /select> <
+option value = "none" >
+    Žádná < /option> < /
+    select > <
     /span> <
-    span class = "setting" >
+span class = "setting" >
     <
     label
 for = "image-details-link-to-custom"
 class = "name" > URL < /label> <
-    input type = "text"
+input type = "text"
 id = "image-details-link-to-custom"
 class = "link-to-custom"
 data - setting = "linkUrl" / >
@@ -4395,24 +4728,24 @@ class = "button-link advanced-toggle" > Rozšířené možnosti < /button></h
     label
 for = "image-details-title-attribute"
 class = "name" > Atribut title < /label> <
-    input type = "text"
+input type = "text"
 id = "image-details-title-attribute"
 data - setting = "title"
 value = "{{ data.model.title }}" / >
     <
     /span> <
-    span class = "setting extra-classes" >
+span class = "setting extra-classes" >
     <
     label
 for = "image-details-css-class"
 class = "name" > CSS třída(obrázek) < /label> <
-    input type = "text"
+input type = "text"
 id = "image-details-css-class"
 data - setting = "extraClasses"
 value = "{{ data.model.extraClasses }}" / >
     <
-    /span> <
-    /div> <
+    /span> < /
+    div > <
     div class = "advanced-link" >
     <
     span class = "setting link-target" >
@@ -4425,35 +4758,35 @@ value = "_blank" < #
     <
 label
 for = "image-details-link-target"
-class = "checkbox-label" > Otevřít odkaz na nové záložce < /label> <
-    /span> <
+class = "checkbox-label" > Otevřít odkaz na nové záložce < /label> < /
+    span > <
     span class = "setting link-rel" >
     <
     label
 for = "image-details-link-rel"
 class = "name" > Druh odkazu(rel) < /label> <
-    input type = "text"
+input type = "text"
 id = "image-details-link-rel"
 data - setting = "linkRel"
 value = "{{ data.model.linkRel }}" / >
     <
     /span> <
-    span class = "setting link-class-name" >
+span class = "setting link-class-name" >
     <
     label
 for = "image-details-link-css-class"
 class = "name" > Připojit třídu CSS < /label> <
-    input type = "text"
+input type = "text"
 id = "image-details-link-css-class"
 data - setting = "linkClassName"
 value = "{{ data.model.linkClassName }}" / >
     <
-    /span> <
+    /span> < /
+    div > <
+    /div> < /
+    div > <
     /div> <
-    /div> <
-    /div> <
-    /div> <
-    div class = "column-image" >
+div class = "column-image" >
     <
     div class = "image" >
     <
@@ -4474,26 +4807,25 @@ alt = "" / >
         class = "replace-attachment button"
         value = "Nahradit" / >
             <
-            /div> <
-            #
+            /div> <#
     }# >
     <
-    /div> <
-    /div> <
-    /div> <
-    /div> <
-    /script>
-
-    <
-script type = "text/html"
-id = "tmpl-image-editor" >
-    <
-    div id = "media-head-{{ data.id }}" > < /div> <
-    div id = "image-editor-{{ data.id }}" > < /div> <
+    /div> < /
+div > <
+    /div> < /
+    div > <
     /script>
 
 <
 script type = "text/html"
+id = "tmpl-image-editor" >
+    <
+    div id = "media-head-{{ data.id }}" > < /div> <
+div id = "image-editor-{{ data.id }}" > < /div> < /
+    script >
+
+    <
+    script type = "text/html"
 id = "tmpl-audio-details" >
     <
     #
@@ -4511,8 +4843,7 @@ div class = "media-embed media-embed-details" >
 controls
 class = "wp-audio-shortcode"
 width = "{{ _.isUndefined( data.model.width ) ? 400 : data.model.width }}"
-preload = "{{ _.isUndefined( data.model.preload ) ? 'none' : data.model.preload }}" <
-    #
+preload = "{{ _.isUndefined( data.model.preload ) ? 'none' : data.model.preload }}" < #
     if (!_.isUndefined(data.model.autoplay) && data.model.autoplay) {# > autoplay < #
     }
 if (!_.isUndefined(data.model.loop) && data.model.loop) {# > loop < #
@@ -4589,15 +4920,14 @@ if (!_.isEmpty(data.model.src)) {
         label
     for = "audio-details-source"
     class = "name" > URL < /label> <
-        input type = "text"
+    input type = "text"
     id = "audio-details-source"
     readonly data - setting = "src"
     value = "{{ data.model.src }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit audio soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
+        span > < #
 }# >
 <
 #
@@ -4611,15 +4941,14 @@ if (!_.isEmpty(data.model.mp3)) {
         label
     for = "audio-details-mp3-source"
     class = "name" > MP3 < /label> <
-        input type = "text"
+    input type = "text"
     id = "audio-details-mp3-source"
     readonly data - setting = "mp3"
     value = "{{ data.model.mp3 }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit audio soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
+        span > < #
 }# >
 <
 #
@@ -4633,15 +4962,14 @@ if (!_.isEmpty(data.model.ogg)) {
         label
     for = "audio-details-ogg-source"
     class = "name" > OGG < /label> <
-        input type = "text"
+    input type = "text"
     id = "audio-details-ogg-source"
     readonly data - setting = "ogg"
     value = "{{ data.model.ogg }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit audio soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
+        span > < #
 }# >
 <
 #
@@ -4655,15 +4983,14 @@ if (!_.isEmpty(data.model.flac)) {
         label
     for = "audio-details-flac-source"
     class = "name" > FLAC < /label> <
-        input type = "text"
+    input type = "text"
     id = "audio-details-flac-source"
     readonly data - setting = "flac"
     value = "{{ data.model.flac }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit audio soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
+        span > < #
 }# >
 <
 #
@@ -4677,15 +5004,14 @@ if (!_.isEmpty(data.model.m4a)) {
         label
     for = "audio-details-m4a-source"
     class = "name" > M4A < /label> <
-        input type = "text"
+    input type = "text"
     id = "audio-details-m4a-source"
     readonly data - setting = "m4a"
     value = "{{ data.model.m4a }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit audio soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
+        span > < #
 }# >
 <
 #
@@ -4699,15 +5025,14 @@ if (!_.isEmpty(data.model.wav)) {
         label
     for = "audio-details-wav-source"
     class = "name" > WAV < /label> <
-        input type = "text"
+    input type = "text"
     id = "audio-details-wav-source"
     readonly data - setting = "wav"
     value = "{{ data.model.wav }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit audio soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
+        span > < #
 }# >
 
 <
@@ -4717,7 +5042,7 @@ if (!_.isEmpty(html5types)) {# >
     fieldset class = "setting-group" >
         <
         legend class = "name" > Přidat další formáty souborů pro přehrávání v prohlížečích, které podporují HTML5 < /legend> <
-        span class = "setting" >
+    span class = "setting" >
         <
         span class = "button-large" >
         <
@@ -4725,37 +5050,36 @@ if (!_.isEmpty(html5types)) {# >
             <
             button class = "button add-media-source"
             data - mime = "{{ mime }}" > {
-                    { type } } < /button> <
-                #
+                { type }
+            } < /button> <#
         })# >
         <
-        /span> <
-        /span> <
-        /fieldset> <
-        #
+        /span> < /
+        span > <
+        /fieldset> <#
 }# >
 
 <
 fieldset class = "setting-group" >
     <
     legend class = "name" > Předběžně načítat < /legend> <
-    span class = "setting preload" >
+span class = "setting preload" >
     <
     span class = "button-group button-large"
 data - setting = "preload" >
     <
     button class = "button"
 value = "auto" > Kompletní soubor < /button> <
-    button class = "button"
+button class = "button"
 value = "metadata" > Strukturované informace < /button> <
-    button class = "button active"
-value = "none" > Žádná < /button> <
-    /span> <
-    /span> <
-    /fieldset>
+button class = "button active"
+value = "none" > Žádná < /button> < /
+    span > <
+    /span> < /
+    fieldset >
 
-<
-span class = "setting-group" >
+    <
+    span class = "setting-group" >
     <
     span class = "setting checkbox-setting autoplay" >
     <
@@ -4765,11 +5089,11 @@ data - setting = "autoplay" / >
     <
     label
 for = "audio-details-autoplay"
-class = "checkbox-label" > Přehrát automaticky < /label> <
-    /span>
+class = "checkbox-label" > Přehrát automaticky < /label> < /
+    span >
 
-<
-span class = "setting checkbox-setting" >
+    <
+    span class = "setting checkbox-setting" >
     <
     input type = "checkbox"
 id = "audio-details-loop"
@@ -4777,15 +5101,15 @@ data - setting = "loop" / >
     <
     label
 for = "audio-details-loop"
-class = "checkbox-label" > Opakovat < /label> <
-    /span> <
-    /span> <
-    /div> <
-    /div> <
-    /script>
+class = "checkbox-label" > Opakovat < /label> < /
+    span > <
+    /span> < /
+    div > <
+    /div> < /
+    script >
 
-<
-script type = "text/html"
+    <
+    script type = "text/html"
 id = "tmpl-video-details" >
     <
     #
@@ -4852,8 +5176,7 @@ div style = "{{ w_rule }}"
 class = "wp-video" >
     <
     video controls
-class = "wp-video-shortcode {{ classes.join( ' ' ) }}" <
-    #
+class = "wp-video-shortcode {{ classes.join( ' ' ) }}" < #
     if (w) {# > width = "{{ w }}" < # }# >
     <
     #
@@ -4862,8 +5185,7 @@ if (h) {# > height = "{{ h }}" < # }# >
 #
 if (!_.isUndefined(data.model.poster) && data.model.poster) {# > poster = "{{ data.model.poster }}" < #
 }# >
-preload = "{{ _.isUndefined( data.model.preload ) ? 'metadata' : data.model.preload }}" <
-    #
+preload = "{{ _.isUndefined( data.model.preload ) ? 'metadata' : data.model.preload }}" < #
     if (!_.isUndefined(data.model.autoplay) && data.model.autoplay) {# > autoplay < #
     }
 if (!_.isUndefined(data.model.loop) && data.model.loop) {# > loop < #
@@ -4939,35 +5261,36 @@ if (data.model.flv) {# >
         #
 }# > {
     {
-        { data.model.content } } } <
-/video> <
-/div>
+        { data.model.content }
+    }
+} <
+/video> < /
+div >
 
-<
-#
-if (!_.isEmpty(data.model.src)) {
-    ext = data.model.src.split('.').pop();
-    if (html5types[ext]) {
-        delete html5types[ext];
+    <
+    #
+    if (!_.isEmpty(data.model.src)) {
+        ext = data.model.src.split('.').pop();
+        if (html5types[ext]) {
+            delete html5types[ext];
+        }# >
+        <
+        span class = "setting" >
+            <
+            label
+        for = "video-details-source"
+        class = "name" > URL < /label> <
+        input type = "text"
+        id = "video-details-source"
+        readonly data - setting = "src"
+        value = "{{ data.model.src }}" / >
+            <
+            button type = "button"
+        class = "button-link remove-setting" > Odstranit video soubor < /button> < /
+            span > < #
     }# >
     <
-    span class = "setting" >
-        <
-        label
-    for = "video-details-source"
-    class = "name" > URL < /label> <
-        input type = "text"
-    id = "video-details-source"
-    readonly data - setting = "src"
-    value = "{{ data.model.src }}" / >
-        <
-        button type = "button"
-    class = "button-link remove-setting" > Odstranit video soubor < /button> <
-        /span> <
-        #
-}# >
-<
-#
+    #
 if (!_.isEmpty(data.model.mp4)) {
     if (!_.isUndefined(html5types.mp4)) {
         delete html5types.mp4;
@@ -4978,15 +5301,14 @@ if (!_.isEmpty(data.model.mp4)) {
         label
     for = "video-details-mp4-source"
     class = "name" > MP4 < /label> <
-        input type = "text"
+    input type = "text"
     id = "video-details-mp4-source"
     readonly data - setting = "mp4"
     value = "{{ data.model.mp4 }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit video soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit video soubor < /button> < /
+        span > < #
 }# >
 <
 #
@@ -5000,15 +5322,14 @@ if (!_.isEmpty(data.model.m4v)) {
         label
     for = "video-details-m4v-source"
     class = "name" > M4V < /label> <
-        input type = "text"
+    input type = "text"
     id = "video-details-m4v-source"
     readonly data - setting = "m4v"
     value = "{{ data.model.m4v }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit video soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit video soubor < /button> < /
+        span > < #
 }# >
 <
 #
@@ -5022,15 +5343,14 @@ if (!_.isEmpty(data.model.webm)) {
         label
     for = "video-details-webm-source"
     class = "name" > WEBM < /label> <
-        input type = "text"
+    input type = "text"
     id = "video-details-webm-source"
     readonly data - setting = "webm"
     value = "{{ data.model.webm }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit video soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit video soubor < /button> < /
+        span > < #
 }# >
 <
 #
@@ -5044,15 +5364,14 @@ if (!_.isEmpty(data.model.ogv)) {
         label
     for = "video-details-ogv-source"
     class = "name" > OGV < /label> <
-        input type = "text"
+    input type = "text"
     id = "video-details-ogv-source"
     readonly data - setting = "ogv"
     value = "{{ data.model.ogv }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit video soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit video soubor < /button> < /
+        span > < #
 }# >
 <
 #
@@ -5066,15 +5385,14 @@ if (!_.isEmpty(data.model.flv)) {
         label
     for = "video-details-flv-source"
     class = "name" > FLV < /label> <
-        input type = "text"
+    input type = "text"
     id = "video-details-flv-source"
     readonly data - setting = "flv"
     value = "{{ data.model.flv }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit video soubor < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit video soubor < /button> < /
+        span > < #
 }# >
 <
 /div>
@@ -5086,7 +5404,7 @@ if (!_.isEmpty(html5types)) {# >
     fieldset class = "setting-group" >
         <
         legend class = "name" > Přidat další formáty souborů pro přehrávání v prohlížečích, které podporují HTML5 < /legend> <
-        span class = "setting" >
+    span class = "setting" >
         <
         span class = "button-large" >
         <
@@ -5094,14 +5412,13 @@ if (!_.isEmpty(html5types)) {# >
             <
             button class = "button add-media-source"
             data - mime = "{{ mime }}" > {
-                    { type } } < /button> <
-                #
+                { type }
+            } < /button> <#
         })# >
         <
-        /span> <
-        /span> <
-        /fieldset> <
-        #
+        /span> < /
+        span > <
+        /fieldset> <#
 }# >
 
 <
@@ -5113,38 +5430,37 @@ if (!_.isEmpty(data.model.poster)) {# >
         label
     for = "video-details-poster-image"
     class = "name" > Náhledový obrázek < /label> <
-        input type = "text"
+    input type = "text"
     id = "video-details-poster-image"
     readonly data - setting = "poster"
     value = "{{ data.model.poster }}" / >
         <
         button type = "button"
-    class = "button-link remove-setting" > Odstranit náhledový obrázek < /button> <
-        /span> <
-        #
+    class = "button-link remove-setting" > Odstranit náhledový obrázek < /button> < /
+        span > < #
 }# >
 
 <
 fieldset class = "setting-group" >
     <
     legend class = "name" > Předběžně načítat < /legend> <
-    span class = "setting preload" >
+span class = "setting preload" >
     <
     span class = "button-group button-large"
 data - setting = "preload" >
     <
     button class = "button"
 value = "auto" > Kompletní soubor < /button> <
-    button class = "button"
+button class = "button"
 value = "metadata" > Strukturované informace < /button> <
-    button class = "button active"
-value = "none" > Žádná < /button> <
-    /span> <
-    /span> <
-    /fieldset>
+button class = "button active"
+value = "none" > Žádná < /button> < /
+    span > <
+    /span> < /
+    fieldset >
 
-<
-span class = "setting-group" >
+    <
+    span class = "setting-group" >
     <
     span class = "setting checkbox-setting autoplay" >
     <
@@ -5154,11 +5470,11 @@ data - setting = "autoplay" / >
     <
     label
 for = "video-details-autoplay"
-class = "checkbox-label" > Přehrát automaticky < /label> <
-    /span>
+class = "checkbox-label" > Přehrát automaticky < /label> < /
+    span >
 
-<
-span class = "setting checkbox-setting" >
+    <
+    span class = "setting checkbox-setting" >
     <
     input type = "checkbox"
 id = "video-details-loop"
@@ -5166,8 +5482,8 @@ data - setting = "loop" / >
     <
     label
 for = "video-details-loop"
-class = "checkbox-label" > Opakovat < /label> <
-    /span> <
+class = "checkbox-label" > Opakovat < /label> < /
+    span > <
     /span>
 
 <
@@ -5184,7 +5500,7 @@ if (!_.isEmpty(data.model.content)) {
         label
         for = "video-details-track-{{ index }}"
         class = "name" > Textové soubory(titulky, popisky, kapitoly a další informace) < /label> <
-            input class = "content-track"
+        input class = "content-track"
         type = "text"
         id = "video-details-track-{{ index }}"
         aria - describedby = "video-details-track-desc-{{ index }}"
@@ -5193,7 +5509,7 @@ if (!_.isEmpty(data.model.content)) {
             span class = "description"
         id = "video-details-track-desc-{{ index }}" >
             Hodnoty srclang, label a kind lze upravit tak, aby byly nastaveny stopy jazyků a HTML atribut„ kind“. < /span> <
-            button type = "button"
+        button type = "button"
         class = "button-link remove-setting remove-track" > Odstranit textový soubor < /button><br/ >
             <
             #
@@ -5204,15 +5520,15 @@ if (!_.isEmpty(data.model.content)) {
     <
     span class = "name" > Textové soubory(titulky, popisky, kapitoly a další informace) < /span><br / >
         <
-        em > Zatím nebyly přiřazeny žádné položky. < /em> <
-        #
+        em > Zatím nebyly přiřazeny žádné položky. < /em> <#
 }# >
 <
 textarea class = "hidden content-setting" > {
-        { content } } < /textarea> <
-    /span> <
-    /div> <
-    /div> <
+        { content }
+    } < /textarea> < /
+    span > <
+    /div> < /
+    div > <
     /script>
 
 <
@@ -5247,19 +5563,18 @@ id = "tmpl-editor-gallery" >
                             #
                     }# >
                     <
-                    /dt> <
-                    #
+                    /dt> <#
                 if (attachment.caption) {# >
                     <
                     dd class = "wp-caption-text gallery-caption" > {
                             {
-                                { data.verifyHTML(attachment.caption) } } } <
-                        /dd> <
-                        #
+                                { data.verifyHTML(attachment.caption) }
+                            }
+                        } <
+                        /dd> <#
                 }# >
                 <
-                /dl> <
-                #
+                /dl> <#
                 if (index % data.columns === data.columns - 1) {# >
                     <
                     br style = "clear: both;" >
@@ -5270,16 +5585,14 @@ id = "tmpl-editor-gallery" >
                 #
             });# >
         <
-        /div> <
-        #
+        /div> <#
     } else {# >
         <
         div class = "wpview-error" >
             <
             div class = "dashicons dashicons-format-gallery" > < /div><p>Nebyly nalezeny žádné položky.</p >
             <
-            /div> <
-            #
+            /div> <#
     }# >
     <
     /script>
@@ -5292,16 +5605,16 @@ id = "tmpl-crop-content" >
 src = "{{ data.url }}"
 alt = "Náhled oblasti oříznutí obrázku. Vyžaduje interakci s myší." >
     <
-    div class = "upload-errors" > < /div> <
-    /script>
+    div class = "upload-errors" > < /div> < /
+    script >
 
-<
-script type = "text/html"
+    <
+    script type = "text/html"
 id = "tmpl-site-icon-preview" >
     <
     h2 > Náhled < /h2> <
-    strong aria - hidden = "true" > Ikona v prohlížeči < /strong> <
-    div class = "favicon-preview" >
+strong aria - hidden = "true" > Ikona v prohlížeči < /strong> <
+div class = "favicon-preview" >
     <
     img src = "wp-admin/images/browser.png"
 class = "browser-preview"
@@ -5317,23 +5630,23 @@ src = "{{ data.url }}"
 alt = "Náhled ikony v prohlížeči" / >
     <
     /div> <
-    span class = "browser-title"
-aria - hidden = "true" > < #print('Seniorpointy.cz')# > < /span> <
-    /div>
+span class = "browser-title"
+aria - hidden = "true" > < #print('Seniorpointy.cz')# > < /span> < /
+    div >
 
-<
-strong aria - hidden = "true" > Ikona aplikace v mobilním zařízení < /strong> <
-    div class = "app-icon-preview" >
+    <
+    strong aria - hidden = "true" > Ikona aplikace v mobilním zařízení < /strong> <
+div class = "app-icon-preview" >
     <
     img id = "preview-app-icon"
 src = "{{ data.url }}"
 alt = "Náhled ikony aplikace v mobilním zařízení" / >
     <
-    /div> <
-    /script>
+    /div> < /
+    script >
 
-<
-link rel = "stylesheet"
+    <
+    link rel = "stylesheet"
 id = "remove-style-meta-css"
 href = "../css/entrymetastyle.css"
 type = "text/css"
@@ -5341,11 +5654,11 @@ media = "all" >
     <
     script type = "text/javascript"
 src = "underscore.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "shortcode.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "backbone.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     /* <![CDATA[ */
     var _wpUtilSettings = { "ajax": { "url": "\/wp-admin\/admin-ajax.php" } };
 /* ]]> */
@@ -5353,9 +5666,9 @@ src = "backbone.min.js" > < /script> <
 /script> <
 script type = "text/javascript"
 src = "wp-util.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "wp-backbone.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     /* <![CDATA[ */
     var _wpMediaModelsL10n = { "settings": { "ajaxurl": "\/wp-admin\/admin-ajax.php", "post": { "id": 0 } } };
 /* ]]> */
@@ -5363,7 +5676,7 @@ src = "wp-backbone.min.js" > < /script> <
 /script> <
 script type = "text/javascript"
 src = "media-models.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     /* <![CDATA[ */
     var pluploadL10n = { "queue_limit_exceeded": "Pokusili jste se za\u0159adit do fronty p\u0159\u00edli\u0161 mnoho soubor\u016f.", "file_exceeds_size_limit": "Soubor %s p\u0159ekro\u010dil maxim\u00e1ln\u00ed povolenou velikost nahr\u00e1van\u00e9ho souboru na tomto webu.", "zero_byte_file": "Soubor je pr\u00e1zdn\u00fd. Zkuste pros\u00edm n\u011bjak\u00fd jin\u00fd.", "invalid_filetype": "Tento typ souboru nen\u00ed z bezpe\u010dnostn\u00edch d\u016fvod\u016f povolen.", "not_an_image": "Tento soubor nen\u00ed obr\u00e1zek. Zkuste pros\u00edm n\u011bjak\u00fd jin\u00fd.", "image_memory_exceeded": "Nedostatek pam\u011bti. Zkuste pros\u00edm nahr\u00e1t n\u011bjak\u00fd men\u0161\u00ed soubor.", "image_dimensions_exceeded": "Soubor je v\u011bt\u0161\u00ed ne\u017e maxim\u00e1ln\u00ed povolen\u00e1 velikost nahr\u00e1van\u00e9ho souboru. Zkuste pros\u00edm n\u011bjak\u00fd jin\u00fd.", "default_error": "P\u0159i nahr\u00e1v\u00e1n\u00ed do\u0161lo k chyb\u011b. Zkuste to pros\u00edm pozd\u011bji.", "missing_upload_url": "Do\u0161lo k chyb\u011b v nastaven\u00ed serveru! Kontaktujte pros\u00edm administr\u00e1tora va\u0161eho serveru.", "upload_limit_exceeded": "M\u016f\u017eete nahr\u00e1vat pouze jeden soubor.", "http_error": "Neo\u010dek\u00e1van\u00e1 odezva ze serveru. Soubor byl pravd\u011bpodobn\u011b nahr\u00e1n \u00fasp\u011b\u0161n\u011b. Zkontrolujte knihovnu m\u00e9di\u00ed nebo na\u010dt\u011bte znovu tuto str\u00e1nku.", "http_error_image": "N\u00e1sledn\u00e9 zpracov\u00e1n\u00ed obr\u00e1zku selhalo. Pokud se jedn\u00e1 o fotografii nebo velk\u00fd obr\u00e1zek, zmen\u0161ete jej na 2500 pixel\u016f a nahrajte znovu.", "upload_failed": "Nahr\u00e1v\u00e1n\u00ed selhalo.", "big_upload_failed": "Zkuste pros\u00edm tento soubor nahr\u00e1t prost\u0159ednictv\u00edm %1$sjednoduch\u00e9ho nahr\u00e1v\u00e1n\u00ed pomoc\u00ed prohl\u00ed\u017ee\u010de%2$s.", "big_upload_queued": "P\u0159i pou\u017eit\u00ed funkce pro hromadn\u00e9 nahr\u00e1v\u00e1n\u00ed n\u011bkolika soubor\u016f najednou p\u0159ekro\u010dil soubor %s maxim\u00e1ln\u00ed povolenou velikost nahr\u00e1van\u00e9ho souboru, kter\u00e1 je definov\u00e1na aktu\u00e1ln\u011b pou\u017e\u00edvan\u00fdm prohl\u00ed\u017ee\u010dem.", "io_error": "IO chyba.", "security_error": "Bezpe\u010dnostn\u00ed chyba.", "file_cancelled": "Soubor byl zru\u0161en.", "upload_stopped": "Nahr\u00e1v\u00e1n\u00ed bylo zastaveno.", "dismiss": "Zav\u0159\u00edt", "crunching": "Prob\u00edh\u00e1 zpracov\u00e1n\u00ed\u2026", "deleted": "byl p\u0159esunut do ko\u0161e.", "error_uploading": "Soubor \u201e%s\u201c se nepoda\u0159ilo nahr\u00e1t." };
 var _wpPluploadSettings = { "defaults": { "file_data_name": "async-upload", "url": "\/wp-admin\/async-upload.php", "filters": { "max_file_size": "33554432b", "mime_types": [{ "extensions": "jpg,jpeg,jpe,gif,png,bmp,tiff,tif,ico,asf,asx,wmv,wmx,wm,avi,divx,flv,mov,qt,mpeg,mpg,mpe,mp4,m4v,ogv,webm,mkv,3gp,3gpp,3g2,3gp2,txt,asc,c,cc,h,srt,csv,tsv,ics,rtx,css,vtt,dfxp,mp3,m4a,m4b,aac,ra,ram,wav,ogg,oga,flac,mid,midi,wma,wax,mka,rtf,pdf,class,tar,zip,gz,gzip,rar,7z,psd,xcf,doc,pot,pps,ppt,wri,xla,xls,xlt,xlw,mdb,mpp,docx,docm,dotx,dotm,xlsx,xlsm,xlsb,xltx,xltm,xlam,pptx,pptm,ppsx,ppsm,potx,potm,ppam,sldx,sldm,onetoc,onetoc2,onetmp,onepkg,oxps,xps,odt,odp,ods,odg,odc,odb,odf,wp,wpd,key,numbers,pages,redux" }] }, "multipart_params": { "action": "upload-attachment", "_wpnonce": "061a070c7b" } }, "browser": { "mobile": false, "supported": true }, "limitExceeded": false };
@@ -5372,22 +5685,22 @@ var _wpPluploadSettings = { "defaults": { "file_data_name": "async-upload", "url
 /script> <
 script type = "text/javascript"
 src = "wp-plupload.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "core.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "widget.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "mouse.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "sortable.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     var mejsL10n = { "language": "cs", "strings": { "mejs.install-flash": "Pou\u017e\u00edv\u00e1te prohl\u00ed\u017ee\u010d, kter\u00fd nem\u00e1 nainstalovan\u00fd nebo povolen\u00fd Flash Player. Zapn\u011bte Flash Player nebo si st\u00e1hn\u011bte nejnov\u011bj\u0161\u00ed verzi z adresy https:\/\/get.adobe.com\/flashplayer\/", "mejs.fullscreen-off": "Zru\u0161it re\u017eim cel\u00e9 obrazovky", "mejs.fullscreen-on": "Cel\u00e1 obrazovka", "mejs.download-video": "St\u00e1hnout video", "mejs.fullscreen": "Cel\u00e1 obrazovka", "mejs.time-jump-forward": ["Vp\u0159ed o 1 sekundu", "Vp\u0159ed o %1 sekund"], "mejs.loop": "Ovl\u00e1d\u00e1n\u00ed opakov\u00e1n\u00ed", "mejs.play": "P\u0159ehr\u00e1t", "mejs.pause": "Pozastavit", "mejs.close": "Zav\u0159\u00edt", "mejs.time-slider": "\u010casov\u00fd posuvn\u00edk", "mejs.time-help-text": "Pou\u017eit\u00edm \u0161ipek vlevo\/vpravo se posunete o jednu sekundu, \u0161ipkami nahoru\/dol\u016f se posunete o deset sekund.", "mejs.time-skip-back": ["Zp\u011bt on 1 sekundu", "Vr\u00e1tit se zp\u011bt o %1 sekund"], "mejs.captions-subtitles": "Titulky", "mejs.captions-chapters": "Kapitoly", "mejs.none": "\u017d\u00e1dn\u00e1", "mejs.mute-toggle": "Ovl\u00e1d\u00e1n\u00ed zvuku", "mejs.volume-help-text": "Pou\u017eit\u00edm \u0161ipek nahoru\/dol\u016f zv\u00fd\u0161\u00edte nebo sn\u00ed\u017e\u00edte \u00farove\u0148 hlasitosti.", "mejs.unmute": "Zapnout zvuk", "mejs.mute": "Ztlumit", "mejs.volume-slider": "Ovl\u00e1d\u00e1n\u00ed hlasitosti", "mejs.video-player": "Video p\u0159ehr\u00e1va\u010d", "mejs.audio-player": "Audio p\u0159ehr\u00e1va\u010d", "mejs.ad-skip": "P\u0159esko\u010dit reklamu", "mejs.ad-skip-info": ["P\u0159esko\u010dit na video budete moci za 1 sekundu", "P\u0159esko\u010dit na video budete moci za %1 sekund"], "mejs.source-chooser": "V\u00fdb\u011br zdroje", "mejs.stop": "Zastavit", "mejs.speed-rate": "Rychlost", "mejs.live-broadcast": "\u017div\u011b", "mejs.afrikaans": "Afrik\u00e1n\u0161tina", "mejs.albanian": "Alb\u00e1n\u0161tina", "mejs.arabic": "Arab\u0161tina", "mejs.belarusian": "B\u011bloru\u0161tina", "mejs.bulgarian": "Bulhar\u0161tina", "mejs.catalan": "Katal\u00e1n\u0161tina", "mejs.chinese": "\u010c\u00edn\u0161tina", "mejs.chinese-simplified": "\u010c\u00edn\u0161tina (zjednodu\u0161en\u00e1)", "mejs.chinese-traditional": "\u010c\u00edn\u0161tina (tradi\u010dn\u00ed)", "mejs.croatian": "Chorvat\u0161tina", "mejs.czech": "\u010ce\u0161tina", "mejs.danish": "D\u00e1n\u0161tina", "mejs.dutch": "Holand\u0161tina", "mejs.english": "Angli\u010dtina", "mejs.estonian": "Eston\u0161tina", "mejs.filipino": "Filip\u00edn\u0161tina", "mejs.finnish": "Dokon\u010dit", "mejs.french": "Francou\u017e\u0161tina", "mejs.galician": "Galicij\u0161tina", "mejs.german": "N\u011bm\u010dina", "mejs.greek": "\u0158e\u010dtina", "mejs.haitian-creole": "Haitsk\u00e1 kreol\u0161tina", "mejs.hebrew": "Hebrej\u0161tina", "mejs.hindi": "Hind\u0161tina", "mejs.hungarian": "Ma\u010far\u0161tina", "mejs.icelandic": "Island\u0161tina", "mejs.indonesian": "Indon\u00e9\u0161tina", "mejs.irish": "Ir\u0161tina", "mejs.italian": "Ital\u0161tina", "mejs.japanese": "Japon\u0161tina", "mejs.korean": "Korej\u0161tina", "mejs.latvian": "Loty\u0161tina", "mejs.lithuanian": "Litev\u0161tina", "mejs.macedonian": "Makedon\u0161tina", "mejs.malay": "Malaj\u0161tina", "mejs.maltese": "Malt\u0161tina", "mejs.norwegian": "Nor\u0161tina", "mejs.persian": "Per\u0161tina", "mejs.polish": "Pol\u0161tina", "mejs.portuguese": "Portugal\u0161tina", "mejs.romanian": "Rumun\u0161tina", "mejs.russian": "Ru\u0161tina", "mejs.serbian": "Srb\u0161tina", "mejs.slovak": "Sloven\u0161tina", "mejs.slovenian": "Slovin\u0161tina", "mejs.spanish": "\u0160pan\u011bl\u0161tina", "mejs.swahili": "Svahil\u0161tina", "mejs.swedish": "\u0160v\u00e9d\u0161tina", "mejs.tagalog": "Tagal\u0161tina", "mejs.thai": "Thaj\u0161tina", "mejs.turkish": "Ture\u010dtina", "mejs.ukrainian": "Ukrajin\u0161tina", "mejs.vietnamese": "Vietnam\u0161tina", "mejs.welsh": "Vel\u0161tina", "mejs.yiddish": "Jidi\u0161" } }; <
 /script> <
 script type = "text/javascript"
 src = "mediaelement-and-player.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "mediaelement-migrate.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     /* <![CDATA[ */
     var _wpmejsSettings = { "pluginPath": "\/wp-includes\/js\/mediaelement\/", "classPrefix": "mejs-", "stretching": "responsive" };
 /* ]]> */
@@ -5395,7 +5708,7 @@ src = "mediaelement-migrate.min.js" > < /script> <
 /script> <
 script type = "text/javascript"
 src = "wp-mediaelement.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     /* <![CDATA[ */
     var wpApiSettings = { "root": "https:\/\/www.seniorpointy.cz\/wp-json\/", "nonce": "baf9653f6b", "versionString": "wp\/v2\/" };
 /* ]]> */
@@ -5403,9 +5716,9 @@ src = "wp-mediaelement.min.js" > < /script> <
 /script> <
 script type = "text/javascript"
 src = "api-request.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "wp-polyfill.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     ('fetch' in window) || document.write('<script src="wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>');
 (document.contains) || document.write('<script src="wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.26.0-0"></scr' + 'ipt>');
 (window.FormData && window.FormData.prototype.keys) || document.write('<script src="wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>');
@@ -5413,11 +5726,11 @@ src = "wp-polyfill.min.js" > < /script> <
 /script> <
 script type = "text/javascript"
 src = "dom-ready.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "a11y.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "i18n.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     /* <![CDATA[ */
     var _wpMediaViewsL10n = { "mediaFrameDefaultTitle": "M\u00e9dia", "url": "URL", "addMedia": "Medi\u00e1ln\u00ed soubory", "search": "Hledat", "select": "Vybrat", "cancel": "Zru\u0161it", "update": "Aktualizovat", "replace": "Nahradit", "remove": "Odstranit", "back": "Zp\u011bt", "selected": "Zvolen\u00e9 soubory: %d", "dragInfo": "Pokud chcete medi\u00e1ln\u00ed soubory libovoln\u011b se\u0159adit, tak je sta\u010d\u00ed snadno p\u0159esunout pomoc\u00ed my\u0161i.", "uploadFilesTitle": "Nahr\u00e1v\u00e1n\u00ed soubor\u016f", "uploadImagesTitle": "Nahr\u00e1t obr\u00e1zky", "mediaLibraryTitle": "Knihovna m\u00e9di\u00ed", "insertMediaTitle": "Medi\u00e1ln\u00ed soubory", "createNewGallery": "Vytvo\u0159it galerii", "createNewPlaylist": "Vytvo\u0159it nov\u00fd audio seznam", "createNewVideoPlaylist": "Vytvo\u0159it nov\u00fd video seznam", "returnToLibrary": "\u2190 Zp\u011bt do Knihovny m\u00e9di\u00ed", "allMediaItems": "V\u0161echny medi\u00e1ln\u00ed soubory", "allDates": "\u2014 Datum \u2014", "noItemsFound": "Nebyly nalezeny \u017e\u00e1dn\u00e9 polo\u017eky.", "insertIntoPost": "Vlo\u017eit do p\u0159\u00edsp\u011bvku", "unattached": "Nep\u0159i\u0159azeno", "mine": "M\u00e9", "trash": "Ko\u0161", "uploadedToThisPost": "P\u0159i\u0159azeno k p\u0159\u00edsp\u011bvku", "warnDelete": "Chyst\u00e1te se nen\u00e1vratn\u011b smazat zvolenou polo\u017eku.\nAkci m\u016f\u017eete zastavit kliknut\u00edm na 'Zru\u0161it' nebo potvrdit pomoc\u00ed 'OK'.", "warnBulkDelete": "Chyst\u00e1te se trvale smazat tyto polo\u017eky z va\u0161eho webu.\nTuto akci nelze vr\u00e1tit zp\u011bt.\n\u201eZru\u0161it\u201c pro zastaven\u00ed, \u201eOK\u201c pro odstran\u011bn\u00ed.", "warnBulkTrash": "Chyst\u00e1te se odstranit zvolen\u00e9 polo\u017eky.\n  Akci m\u016f\u017eete zastavit kliknut\u00edm na 'Storno' nebo potvrdit pomoc\u00ed 'OK'.", "bulkSelect": "Hromadn\u00e9 \u00fapravy", "trashSelected": "Odstranit", "restoreSelected": "Obnovit z ko\u0161e", "deletePermanently": "Smazat", "apply": "Pou\u017e\u00edt", "filterByDate": "Filtrovat podle data", "filterByType": "Filtrovat podle typu souboru", "searchLabel": "Hledat", "searchMediaLabel": "Hled\u00e1n\u00ed medi\u00e1ln\u00edch soubor\u016f", "searchMediaPlaceholder": "Hledat medi\u00e1ln\u00ed soubory...", "mediaFound": "Po\u010det nalezen\u00fdch polo\u017eek: %d", "mediaFoundHasMoreResults": "Po\u010det zobrazen\u00fdch medi\u00e1ln\u00edch polo\u017eek: %d. Chcete-li zobrazit dal\u0161\u00ed v\u00fdsledky, posu\u0148te str\u00e1nku n\u00ed\u017ee.", "noMedia": "Nebyly nalezeny \u017e\u00e1dn\u00e9 medi\u00e1ln\u00ed soubory.", "noMediaTryNewSearch": "Nebyly nalezeny \u017e\u00e1dn\u00e9 polo\u017eky. Zkuste to znovu s n\u011bjak\u00fdm dal\u0161\u00edm kl\u00ed\u010dov\u00fdm slovem.", "attachmentDetails": "Podrobn\u00e9 informace o souboru", "insertFromUrlTitle": "Vlo\u017eit z URL adresy", "setFeaturedImageTitle": "N\u00e1hledov\u00fd obr\u00e1zek", "setFeaturedImage": "Zvolit n\u00e1hledov\u00fd obr\u00e1zek", "createGalleryTitle": "Vytvo\u0159it galerii", "editGalleryTitle": "Upravit galerii", "cancelGalleryTitle": "\u2190 Zru\u0161it \u00fapravy", "insertGallery": "Vlo\u017eit galerii", "updateGallery": "Aktualizovat galerii", "addToGallery": "P\u0159idat do galerie", "addToGalleryTitle": "P\u0159idat do galerie", "reverseOrder": "Se\u0159adit opa\u010dn\u011b", "imageDetailsTitle": "Podrobn\u00e9 informace o obr\u00e1zku", "imageReplaceTitle": "Nahradit obr\u00e1zek", "imageDetailsCancel": "Zru\u0161it \u00fapravy", "editImage": "Upravit obr\u00e1zek", "chooseImage": "Zvolit obr\u00e1zek", "selectAndCrop": "Zvolit obr\u00e1zek a o\u0159\u00edznout", "skipCropping": "Neo\u0159ez\u00e1vat obr\u00e1zek", "cropImage": "O\u0159\u00edznout obr\u00e1zek", "cropYourImage": "O\u0159\u00edznout obr\u00e1zek", "cropping": "Prob\u00edh\u00e1 o\u0159ez\u00e1v\u00e1n\u00ed\u2026", "suggestedDimensions": "Doporu\u010den\u00e9 rozm\u011bry obr\u00e1zku:%1$s na %2$s pixel\u016f.", "cropError": "B\u011bhem o\u0159ez\u00e1v\u00e1n\u00ed zvolen\u00e9ho obr\u00e1zku do\u0161lo k ne\u010dekan\u00e9 chyb\u011b.", "audioDetailsTitle": "Podrobn\u00e9 informace o audio souboru", "audioReplaceTitle": "Nahradit audio", "audioAddSourceTitle": "P\u0159idat dal\u0161\u00ed form\u00e1t pro audio soubor", "audioDetailsCancel": "Zru\u0161it \u00fapravy", "videoDetailsTitle": "Podrobn\u00e9 informace o video souboru", "videoReplaceTitle": "Nahradit video", "videoAddSourceTitle": "P\u0159idat dal\u0161\u00ed form\u00e1t pro video soubor", "videoDetailsCancel": "Zru\u0161it \u00fapravy", "videoSelectPosterImageTitle": "Zvolit n\u00e1hledov\u00fd obr\u00e1zek", "videoAddTrackTitle": "P\u0159idat titulky", "playlistDragInfo": "Pokud chcete audio soubory libovoln\u011b se\u0159adit, tak je sta\u010d\u00ed snadno p\u0159esunout pomoc\u00ed my\u0161i.", "createPlaylistTitle": "Vytvo\u0159it audio seznam", "editPlaylistTitle": "Upravit audio seznam", "cancelPlaylistTitle": "\u2190 Zru\u0161it \u00fapravy", "insertPlaylist": "Vlo\u017eit audio seznam", "updatePlaylist": "Aktualizovat audio seznam", "addToPlaylist": "P\u0159idat soubor do audio seznamu", "addToPlaylistTitle": "P\u0159idat do seznamu", "videoPlaylistDragInfo": "Pokud chcete video soubory libovoln\u011b se\u0159adit, tak je sta\u010d\u00ed snadno p\u0159esunout pomoc\u00ed my\u0161i.", "createVideoPlaylistTitle": "Vytvo\u0159it video seznam", "editVideoPlaylistTitle": "Upravit video seznam", "cancelVideoPlaylistTitle": "\u2190 Zru\u0161it \u00fapravy", "insertVideoPlaylist": "Vlo\u017eit video seznam", "updateVideoPlaylist": "Aktualizovat video seznam", "addToVideoPlaylist": "P\u0159idat soubor do video seznamu", "addToVideoPlaylistTitle": "P\u0159idat do seznamu", "filterAttachments": "Filtrovat m\u00e9dia", "attachmentsList": "Seznam m\u00e9di\u00ed", "settings": { "tabs": [], "tabUrl": "https:\/\/www.seniorpointy.cz\/wp-admin\/media-upload.php?chromeless=1", "mimeTypes": { "image": "Obr\u00e1zky", "audio": "Audio", "video": "Video", "application\/msword,application\/vnd.openxmlformats-officedocument.wordprocessingml.document,application\/vnd.ms-word.document.macroEnabled.12,application\/vnd.ms-word.template.macroEnabled.12,application\/vnd.oasis.opendocument.text,application\/vnd.apple.pages,application\/pdf,application\/vnd.ms-xpsdocument,application\/oxps,application\/rtf,application\/wordperfect,application\/octet-stream": "Dokumenty", "application\/vnd.apple.numbers,application\/vnd.oasis.opendocument.spreadsheet,application\/vnd.ms-excel,application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application\/vnd.ms-excel.sheet.macroEnabled.12,application\/vnd.ms-excel.sheet.binary.macroEnabled.12": "Tabulky", "application\/x-gzip,application\/rar,application\/x-tar,application\/zip,application\/x-7z-compressed": "Archiv" }, "captions": true, "nonce": { "sendToEditor": "8085360df1" }, "post": { "id": 0 }, "defaultProps": { "link": "none", "align": "", "size": "" }, "attachmentCounts": { "audio": 1, "video": 1 }, "oEmbedProxyUrl": "https:\/\/www.seniorpointy.cz\/wp-json\/oembed\/1.0\/proxy", "embedExts": ["mp3", "ogg", "flac", "m4a", "wav", "mp4", "m4v", "webm", "ogv", "flv"], "embedMimes": { "mp3": "audio\/mpeg", "ogg": "audio\/ogg", "flac": "audio\/flac", "m4a": "audio\/mpeg", "wav": "audio\/wav", "mp4": "video\/mp4", "m4v": "video\/mp4", "webm": "video\/webm", "ogv": "video\/ogg", "flv": "video\/x-flv" }, "contentWidth": 640, "months": [{ "year": "2021", "month": "12", "text": "Prosinec 2021" }, { "year": "2021", "month": "11", "text": "Listopad 2021" }, { "year": "2021", "month": "10", "text": "\u0158\u00edjen 2021" }, { "year": "2021", "month": "9", "text": "Z\u00e1\u0159\u00ed 2021" }, { "year": "2021", "month": "8", "text": "Srpen 2021" }, { "year": "2021", "month": "7", "text": "\u010cervenec 2021" }, { "year": "2021", "month": "6", "text": "\u010cerven 2021" }, { "year": "2021", "month": "5", "text": "Kv\u011bten 2021" }, { "year": "2021", "month": "4", "text": "Duben 2021" }, { "year": "2021", "month": "3", "text": "B\u0159ezen 2021" }, { "year": "2021", "month": "2", "text": "\u00danor 2021" }, { "year": "2021", "month": "1", "text": "Leden 2021" }, { "year": "2020", "month": "12", "text": "Prosinec 2020" }, { "year": "2020", "month": "11", "text": "Listopad 2020" }, { "year": "2020", "month": "10", "text": "\u0158\u00edjen 2020" }, { "year": "2020", "month": "9", "text": "Z\u00e1\u0159\u00ed 2020" }, { "year": "2020", "month": "8", "text": "Srpen 2020" }, { "year": "2020", "month": "6", "text": "\u010cerven 2020" }, { "year": "2020", "month": "5", "text": "Kv\u011bten 2020" }, { "year": "2020", "month": "4", "text": "Duben 2020" }, { "year": "2020", "month": "3", "text": "B\u0159ezen 2020" }, { "year": "2020", "month": "2", "text": "\u00danor 2020" }, { "year": "2020", "month": "1", "text": "Leden 2020" }, { "year": "2019", "month": "12", "text": "Prosinec 2019" }, { "year": "2019", "month": "7", "text": "\u010cervenec 2019" }, { "year": "2019", "month": "6", "text": "\u010cerven 2019" }, { "year": "2019", "month": "5", "text": "Kv\u011bten 2019" }, { "year": "2019", "month": "3", "text": "B\u0159ezen 2019" }, { "year": "2018", "month": "11", "text": "Listopad 2018" }, { "year": "2018", "month": "10", "text": "\u0158\u00edjen 2018" }, { "year": "2018", "month": "9", "text": "Z\u00e1\u0159\u00ed 2018" }, { "year": "2018", "month": "5", "text": "Kv\u011bten 2018" }, { "year": "2018", "month": "4", "text": "Duben 2018" }, { "year": "2018", "month": "2", "text": "\u00danor 2018" }, { "year": "2017", "month": "11", "text": "Listopad 2017" }, { "year": "2017", "month": "10", "text": "\u0158\u00edjen 2017" }, { "year": "2017", "month": "8", "text": "Srpen 2017" }, { "year": "2017", "month": "6", "text": "\u010cerven 2017" }, { "year": "2017", "month": "5", "text": "Kv\u011bten 2017" }, { "year": "2017", "month": "4", "text": "Duben 2017" }], "mediaTrash": 0 } };
 /* ]]> */
@@ -5432,11 +5745,11 @@ script type = "text/javascript" >
 /script> <
 script type = "text/javascript"
 src = "media-views.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "media-editor.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "media-audiovideo.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     /* <![CDATA[ */
     var wpcf7 = { "apiSettings": { "root": "https:\/\/www.seniorpointy.cz\/wp-json\/contact-form-7\/v1", "namespace": "contact-form-7\/v1" } };
 /* ]]> */
@@ -5444,28 +5757,28 @@ src = "media-audiovideo.min.js" > < /script> <
 /script> <
 script type = "text/javascript"
 src = "scripts_1.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "tabs.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "effect.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "datepicker.min.js" > < /script> <
-    script type = "text/javascript" >
+script type = "text/javascript" >
     jQuery(document).ready(function(jQuery) { jQuery.datepicker.setDefaults({ "closeText": "Zav\u0159\u00edt", "currentText": "Dnes", "monthNames": ["Leden", "\u00danor", "B\u0159ezen", "Duben", "Kv\u011bten", "\u010cerven", "\u010cervenec", "Srpen", "Z\u00e1\u0159\u00ed", "\u0158\u00edjen", "Listopad", "Prosinec"], "monthNamesShort": ["Led", "\u00dano", "B\u0159e", "Dub", "Kv\u011b", "\u010cvn", "\u010cvc", "Srp", "Z\u00e1\u0159", "\u0158\u00edj", "Lis", "Pro"], "nextText": "Dal\u0161\u00ed", "prevText": "P\u0159edchoz\u00ed", "dayNames": ["Ned\u011ble", "Pond\u011bl\u00ed", "\u00dater\u00fd", "St\u0159eda", "\u010ctvrtek", "P\u00e1tek", "Sobota"], "dayNamesShort": ["Ne", "Po", "\u00dat", "St", "\u010ct", "P\u00e1", "So"], "dayNamesMin": ["Ne", "Po", "\u00dat", "St", "\u010ct", "P\u00e1", "So"], "dateFormat": "d.mm.yy", "firstDay": 1, "isRTL": false }); }); <
 /script> <
 script type = "text/javascript"
 src = "accordion.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "jquery.prettyPhoto.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "owl.carousel.min.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "scripts_2.js" > < /script> <
-    script type = "text/javascript"
+script type = "text/javascript"
 src = "wp-embed.min.js" > < /script>
 
 
 <!-- END body -->
 <
-/body> <
-/html>
+/body> < /
+html >
