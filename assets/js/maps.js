@@ -17,7 +17,7 @@ content = "text/html; charset=UTF-8" >
     <
     title > Stránka nenalezena - Seniorpointy.cz < /title>
 
-<!-- This site is optimized with the Yoast SEO plugin v12.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+
 <
 meta name = "robots"
 content = "noindex,follow" >
@@ -42,7 +42,7 @@ content = "Stránka nenalezena - Seniorpointy.cz" >
     <
     script type = "application/ld+json"
 class = "yoast-schema-graph yoast-schema-graph--main" > { "@context": "https://schema.org", "@graph": [{ "@type": "WebSite", "@id": "#website", "url": "", "name": "Seniorpointy.cz", "potentialAction": { "@type": "SearchAction", "target": "?s={search_term_string}", "query-input": "required name=search_term_string" } }] } < /script>
-    <!-- / Yoast SEO plugin. -->
+
 
 <
 link rel = "dns-prefetch"
@@ -63,7 +63,7 @@ href = "feed/" >
 type = "application/rss+xml"
 title = "Seniorpointy.cz &raquo; RSS komentářů"
 href = "comments/feed/" >
-    <!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.3 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+
     <
     script type = "text/javascript"
 data - cfasync = "false" >
@@ -151,7 +151,7 @@ if (mi_track_user) {
     })();
 } <
 /script>
-<!-- / Google Analytics by MonsterInsights -->
+
 
 <
 link rel = "stylesheet"
@@ -1018,9 +1018,8 @@ ul.agw-gallery
             <!--[if lt IE 8]>
             <
             script type = 'text/javascript'
-        src = 'wp-includes/js/json2.min.js?ver=2015-05-03' > < /script> <![endif] -->
-            <
-            script type = "text/javascript"
+        src = 'wp-includes/js/json2.min.js?ver=2015-05-03' > < /script> <![endif] --> <
+        script type = "text/javascript"
         src = "jquery.prettyPhoto.js" > < /script> <
         script type = "text/javascript"
         src = "agw_front.js" > < /script> <
@@ -2441,7 +2440,7 @@ ul.agw-gallery
         data - cfasync = "false" >
             var _mmunch = { 'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false }; < /script><script data-cfasync="false" src="site.js" id="mailmunch-script" data-plugin="mc_mm" data-mailmunch-site-id="418005" async></script > < meta name = "generator"
         content = "Powered by Visual Composer - drag and drop page builder for WordPress." >
-            <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="wp-content/plugins/js-composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+            <meta name="generator" content="Powered by Slider Revolution 5.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
             <
             style type = "text/css"
         id = "wp-custom-css" > #page - header {
@@ -2605,7 +2604,7 @@ ul.agw-gallery
         class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-901" > < a href = "o-projektu-senior-pointy/navstevnost-a-dotazy/" > Návštěvnost a dotazy < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li id = "menu-item-479"
         class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-479" > < a href = "?page_id=474" > Pobočky < /a> <
         ul class = "sub-menu" >
@@ -2634,7 +2633,7 @@ ul.agw-gallery
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1062" > < a href = "https://seniorpointy.cz/brno-lesna/" > Lesná < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li id = "menu-item-697"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-697" > < a href = "https://seniorpointy.cz/boskovice/" > Boskovice < /a></li >
             <
@@ -2648,7 +2647,7 @@ ul.agw-gallery
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-701" > < a href = "https://seniorpointy.cz/znojmo/" > Znojmo < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li id = "menu-item-684"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-684" > < a href = "#" > Středočeský kraj < /a> <
         ul class = "sub-menu" >
@@ -2659,7 +2658,7 @@ ul.agw-gallery
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-685" > < a href = "https://seniorpointy.cz/pribram-2/" > Příbram < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li id = "menu-item-686"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-686" > < a href = "#" > Jihočeský kraj < /a> <
         ul class = "sub-menu" >
@@ -2674,7 +2673,7 @@ ul.agw-gallery
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-709" > < a href = "https://seniorpointy.cz/pisek/" > Písek < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li id = "menu-item-687"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-687" > < a href = "#" > Zlínský kraj < /a> <
         ul class = "sub-menu" >
@@ -2683,7 +2682,7 @@ ul.agw-gallery
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-704" > < a href = "https://seniorpointy.cz/zlin/" > Zlín < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li id = "menu-item-688"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-688" > < a href = "#" > Moravskoslezský kraj < /a> <
         ul class = "sub-menu" >
@@ -2733,7 +2732,7 @@ ul.agw-gallery
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1592" > < a href = "orlova" > Orlová < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li id = "menu-item-1324"
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1324" > < a href = "#" > Pardubický kraj < /a> <
         ul class = "sub-menu" >
@@ -2742,9 +2741,9 @@ ul.agw-gallery
         class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1326" > < a href = "vysoke-myto/" > Vysoké Mýto < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             /ul> < /
-            li > <
+        li > <
             li id = "menu-item-903"
         class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-903" > < a href = "partneri-projektu/" > Partneři projektu < /a></li >
             <
@@ -2792,7 +2791,7 @@ ul.agw-gallery
             li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-901" > < a href = "o-projektu-senior-pointy/navstevnost-a-dotazy/" > Návštěvnost a dotazy < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-479" > < a href = "?page_id=474" > Pobočky < /a> <
         ul class = "sub-menu" >
             <
@@ -2813,7 +2812,7 @@ ul.agw-gallery
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1062" > < a href = "https://seniorpointy.cz/brno-lesna/" > Lesná < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-697" > < a href = "https://seniorpointy.cz/boskovice/" > Boskovice < /a></li >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-698" > < a href = "https://seniorpointy.cz/breclav/" > Břeclav < /a></li >
@@ -2823,7 +2822,7 @@ ul.agw-gallery
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-701" > < a href = "https://seniorpointy.cz/znojmo/" > Znojmo < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-684" > < a href = "#" > Středočeský kraj < /a> <
         ul class = "sub-menu" >
             <
@@ -2831,7 +2830,7 @@ ul.agw-gallery
 		<li class= "menu-item menu-item-type-custom menu-item-object-custom menu-item-685" > < a href = "https://seniorpointy.cz/pribram-2/" > Příbram < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-686" > < a href = "#" > Jihočeský kraj < /a> <
         ul class = "sub-menu" >
             <
@@ -2842,14 +2841,14 @@ ul.agw-gallery
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-709" > < a href = "https://seniorpointy.cz/pisek/" > Písek < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-687" > < a href = "#" > Zlínský kraj < /a> <
         ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-704" > < a href = "https://seniorpointy.cz/zlin/" > Zlín < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-688" > < a href = "#" > Moravskoslezský kraj < /a> <
         ul class = "sub-menu" >
             <
@@ -2883,16 +2882,16 @@ ul.agw-gallery
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1592" > < a href = "orlova" > Orlová < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1324" > < a href = "#" > Pardubický kraj < /a> <
         ul class = "sub-menu" >
             <
             li class = "menu-item menu-item-type-custom menu-item-object-custom menu-item-1326" > < a href = "vysoke-myto/" > Vysoké Mýto < /a></li >
             <
             /ul> < /
-            li > <
+        li > <
             /ul> < /
-            li > <
+        li > <
             li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-903" > < a href = "partneri-projektu/" > Partneři projektu < /a></li >
             <
             li class = "menu-item menu-item-type-post_type menu-item-object-page menu-item-897" > < a href = "kontakty/" > Kontakty < /a></li >
@@ -2978,7 +2977,7 @@ ul.agw-gallery
             <
             button type = "submit" >
             Vyhledat < i class = "fa fa-search" > < /i> < /
-            button >
+        button >
 
             <!-- END .accommodation-search-form-1 -->
             <
@@ -3011,7 +3010,7 @@ ul.agw-gallery
             DIČ: CZ26976307(jsme plátci DPH) < br >
             číslo účtu: 197883555 / 0300(ČSOB) < br >
             Datová schránka: sq4uys8 < /p> < /
-            div > <
+        div > <
             /div><div id="text-4" class="one-fourth widget clearfix widget_text"><h5>Podporují nás</h
         5 > < div class = "title-block2" > < /div>			<div class="textwidget"><p> <
         a href = "https://www.kr-jihomoravsky.cz/"
@@ -3038,8 +3037,9 @@ ul.agw-gallery
         title = "Město Břeclav"
         target = "_blank"
         rel = "noopener noreferrer" > Město Břeclav < /a><br> < /
-            p > < /div > <
-            /div><div id="text-8" class="one-fourth widget clearfix widget_text"><h5> </h
+        p > < /div > < /
+        div > < div id = "text-8"
+        class = "one-fourth widget clearfix widget_text" > < h5 >   < /h
         5 > < div class = "title-block2" > < /div>			<div class="textwidget"><p> <
         a href = "http://www.vyskov-mesto.cz/"
         title = "Město Vyškov"
@@ -3061,9 +3061,9 @@ ul.agw-gallery
         title = "Město Znojmo"
         target = "_blank"
         rel = "noopener noreferrer" > Město Znojmo < /a><br> < /
-            p > < /div > <
-            /div>			 <
-        div class = "clearboth" > < /div>
+        p > < /div > < /
+        div > <
+            div class = "clearboth" > < /div>
 
         <!-- BEGIN .footer-bottom -->
         <
@@ -3102,18 +3102,18 @@ ul.agw-gallery
         aria - expanded = "false" >
             Menu < span class = "dashicons dashicons-arrow-down"
         aria - hidden = "true" > < /span> < /
-            button > <
+        button > <
             div class = "media-frame-menu" > < /div> <
         div class = "media-frame-tab-panel" >
             <
             div class = "media-frame-router" > < /div> <
         div class = "media-frame-content" > < /div> < /
-            div > <
+        div > <
             h2 class = "media-frame-actions-heading screen-reader-text" >
             Vybrané akce médií < /h2> <
         div class = "media-frame-toolbar" > < /div> <
         div class = "media-frame-uploader" > < /div> < /
-            script >
+        script >
 
             <
             script type = "text/html"
@@ -3133,9 +3133,9 @@ ul.agw-gallery
             <
         div class = "media-modal-content"
         role = "document" > < /div> < /
-            div > <
+        div > <
             div class = "media-modal-backdrop" > < /div> < /
-            script >
+        script >
 
             <
             script type = "text/html"
@@ -3144,7 +3144,7 @@ ul.agw-gallery
             div class = "uploader-window-content" >
             <
             div class = "uploader-editor-title" > Přesuňte zde soubory z počítače < /div> < /
-            div > <
+        div > <
             /script>
 
         <
@@ -3154,7 +3154,7 @@ ul.agw-gallery
             div class = "uploader-editor-content" >
             <
             div class = "uploader-editor-title" > Přesuňte zde soubory z počítače < /div> < /
-            div > <
+        div > <
             /script>
 
         <
@@ -3188,7 +3188,7 @@ ul.agw-gallery
         p class = "upload-instructions drop-instructions" > nebo < /p> <
         button type = "button"
         class = "browser button button-hero" > Vybrat soubory < /button> < /
-            div >
+        div >
 
             <
             div class = "upload-inline-status" > < /div>
@@ -3227,13 +3227,13 @@ ul.agw-gallery
         class = "view-list" >
             <
             span class = "screen-reader-text" > Přehledný seznam < /span> < /
-            a > <
+        a > <
             a href = "/wp-content/themes/retirement/framework/js/maps.js?ver=5.3.11&#038;mode=grid"
         class = "view-grid current"
         aria - current = "page" >
             <
             span class = "screen-reader-text" > Pravidelná mřížka < /span> < /
-            a > <
+        a > <
             /script>
 
         <
@@ -3252,12 +3252,12 @@ ul.agw-gallery
             span class = "upload-count" >
             <
             span class = "upload-index" > < /span> / < span class = "upload-total" > < /span> < /
-            span > <
+        span > <
             span class = "upload-detail-separator" > & ndash; < /span> <
         span class = "upload-filename" > < /span> < /
-            div > <
+        div > <
             div class = "upload-errors" > < /div> < /
-            script >
+        script >
 
             <
             script type = "text/html"
@@ -3269,9 +3269,9 @@ ul.agw-gallery
                 }
             } < /span> <
         span class = "upload-error-message" > {
-                { data.message }
-            } < /span> < /
-            script >
+            { data.message }
+        } < /span> < /
+        script >
 
             <
             script type = "text/html"
@@ -3287,10 +3287,10 @@ ul.agw-gallery
             <
             button type = "button"
         class = "media-modal-close" > < span class = "media-modal-icon" > < span class = "screen-reader-text" > Zavřít dialogové okno < /span></span > < /button> < /
-            div > <
+        div > <
             div class = "media-frame-title" > < /div> <
         div class = "media-frame-content" > < /div> < /
-            script >
+        script >
 
             <
             script type = "text/html"
@@ -3349,7 +3349,7 @@ ul.agw-gallery
             src = "{{ data.url }}" / >
                 <
                 /audio> < /
-                div > < #
+            div > < #
         } else if ('video' === data.type) {
             var w_rule = '';
             if (data.width) {
@@ -3376,7 +3376,7 @@ ul.agw-gallery
             src = "{{ data.url }}" / >
                 <
                 /video> < /
-                div > < #
+            div > < #
         }# >
 
         <
@@ -3403,7 +3403,7 @@ ul.agw-gallery
             <
             span class = "spinner" > < /span> <
         span class = "saved" > Uloženo. < /span> < /
-            span > <
+        span > <
             div class = "details" >
             <
             h2 class = "screen-reader-text" > Detaily < /h2> <
@@ -3442,9 +3442,9 @@ ul.agw-gallery
             { data.fileLength }
         } < /span> <
         span class = "screen-reader-text" > {
-                { data.fileLengthHumanReadable }
-            } < /span> < /
-            div > < #
+            { data.fileLengthHumanReadable }
+        } < /span> < /
+        div > < #
     }# >
 
     <
@@ -3555,11 +3555,11 @@ data - setting = "caption" >
 for = "attachment-details-two-column-caption"
 class = "name" > Titulek < /label> <
 textarea id = "attachment-details-two-column-caption" {
-        { maybeReadOnly }
-    } > {
-        { data.caption }
-    } < /textarea> < /
-    span > <
+    { maybeReadOnly }
+} > {
+    { data.caption }
+} < /textarea> < /
+span > <
     span class = "setting"
 data - setting = "description" >
     <
@@ -3567,18 +3567,18 @@ data - setting = "description" >
 for = "attachment-details-two-column-description"
 class = "name" > Popis < /label> <
 textarea id = "attachment-details-two-column-description" {
-        { maybeReadOnly }
-    } > {
-        { data.description }
-    } < /textarea> < /
-    span > <
+    { maybeReadOnly }
+} > {
+    { data.description }
+} < /textarea> < /
+span > <
     span class = "setting" >
     <
     span class = "name" > Nahrál uživatel < /span> <
 span class = "value" > {
-        { data.authorName }
-    } < /span> < /
-    span > < #
+    { data.authorName }
+} < /span> < /
+span > < #
     if (data.uploadedToTitle) {# >
         <
         span class = "setting" >
@@ -3614,7 +3614,7 @@ readonly / >
     <
     /span> <
 div class = "attachment-compat" > < /div> < /
-    div >
+div >
 
     <
     div class = "actions" >
@@ -3699,7 +3699,7 @@ if ('image' === data.type && data.sizes) {# >
         div > {
             { data.filename }
         } < /div> < /
-        div > < #
+    div > < #
 }# >
 <
 /div> <#
@@ -3768,7 +3768,7 @@ role = "status" >
     <
     span class = "spinner" > < /span> <
 span class = "saved" > Uloženo. < /span> < /
-    span > <
+span > <
     /h2> <
 div class = "attachment-info" >
     <
@@ -3846,9 +3846,9 @@ if (data.fileLength && data.fileLengthHumanReadable) {# >
         { data.fileLength }
     } < /span> <
     span class = "screen-reader-text" > {
-            { data.fileLengthHumanReadable }
-        } < /span> < /
-        div > < #
+        { data.fileLengthHumanReadable }
+    } < /span> < /
+    div > < #
 }# >
 
 <
@@ -3944,11 +3944,11 @@ data - setting = "caption" >
 for = "attachment-details-caption"
 class = "name" > Titulek < /label> <
 textarea id = "attachment-details-caption" {
-        { maybeReadOnly }
-    } > {
-        { data.caption }
-    } < /textarea> < /
-    span > <
+    { maybeReadOnly }
+} > {
+    { data.caption }
+} < /textarea> < /
+span > <
     span class = "setting"
 data - setting = "description" >
     <
@@ -3956,11 +3956,11 @@ data - setting = "description" >
 for = "attachment-details-description"
 class = "name" > Popis < /label> <
 textarea id = "attachment-details-description" {
-        { maybeReadOnly }
-    } > {
-        { data.description }
-    } < /textarea> < /
-    span > <
+    { maybeReadOnly }
+} > {
+    { data.description }
+} < /textarea> < /
+span > <
     span class = "setting"
 data - setting = "url" >
     <
@@ -3973,7 +3973,7 @@ value = "{{ data.url }}"
 readonly / >
     <
     /span> < /
-    script >
+script >
 
     <
     script type = "text/html"
@@ -3997,7 +3997,7 @@ if (data.clearable) {# >
 <
 /div> <
 div class = "selection-view" > < /div> < /
-    script >
+script >
 
     <
     script type = "text/html"
@@ -4031,7 +4031,7 @@ if ('image' === data.type) {# >
     option value = "none"
     selected >
         Žádná < /option> < /
-        select > <
+    select > <
         /span> <#
 }# >
 
@@ -4220,7 +4220,7 @@ Mediální soubor < /option> <
 option value = "none" < #
     if ('none' == wp.media.galleryDefaults.link) {# > selected = "selected" < # }# >>
 Žádná < /option> < /
-    select > <
+select > <
     /span>
 
 <
@@ -4261,7 +4261,7 @@ option value = "8" < #
 option value = "9" < #
     if (9 == wp.media.galleryDefaults.columns) {# > selected = "selected" < # }# >>
 9 < /option> < /
-    select > <
+select > <
     /span>
 
 <
@@ -4274,7 +4274,7 @@ data - setting = "_orderbyRandom" / >
     label
 for = "gallery-settings-random-order"
 class = "checkbox-label-inline" > Náhodné pořadí < /label> < /
-    span >
+span >
 
     <
     span class = "setting size" >
@@ -4299,9 +4299,9 @@ option value = "large" >
     Velká < /option> <
 option value = "full" >
     Původní velikost < /option> < /
-    select > <
+select > <
     /span> < /
-    script >
+script >
 
     <
     script type = "text/html"
@@ -4353,7 +4353,7 @@ span >
         for = "playlist-settings-show-artist"
         class = "checkbox-label-inline" >
             Zobrazit autora v seznamu souborů < /label> < /
-            span > < #
+        span > < #
     }# >
 
     <
@@ -4369,7 +4369,7 @@ label
 for = "playlist-settings-show-images"
 class = "checkbox-label-inline" >
     Zobrazit náhledový obrázek < /label> < /
-    span > <
+span > <
     /script>
 
 <
@@ -4391,7 +4391,7 @@ div class = "embed-container"
 style = "display: none;" >
     <
     div class = "embed-preview" > < /div> < /
-    div > <
+div > <
     /script>
 
 <
@@ -4407,7 +4407,7 @@ draggable = "false"
 alt = "" / >
     <
     /div> < /
-    div >
+div >
 
     <
     span class = "setting alt-text has-description" >
@@ -4458,9 +4458,9 @@ value = "right" >
 button class = "button active"
 value = "none" >
     Žádná < /button> < /
-    span > <
+span > <
     /span> < /
-    fieldset >
+fieldset >
 
     <
     fieldset class = "setting-group" >
@@ -4480,7 +4480,7 @@ value = "custom" >
 button class = "button active"
 value = "none" >
     Žádná < /button> < /
-    span > <
+span > <
     /span> <
 span class = "setting" >
     <
@@ -4493,7 +4493,7 @@ class = "link-to-custom"
 data - setting = "linkUrl" / >
     <
     /span> < /
-    fieldset > <
+fieldset > <
     /script>
 
 <
@@ -4531,9 +4531,9 @@ for = "image-details-caption"
 class = "name" > Titulek < /label> <
 textarea id = "image-details-caption"
 data - setting = "caption" > {
-        { data.model.caption }
-    } < /textarea> < /
-    span >
+    { data.model.caption }
+} < /textarea> < /
+span >
 
     <
     h2 > Nastavení zobrazení souboru < /h2> <
@@ -4557,9 +4557,9 @@ value = "right" >
 button class = "button active"
 value = "none" >
     Žádná < /button> < /
-    span > <
+span > <
     /span> < /
-    fieldset >
+fieldset >
 
     <
     #
@@ -4635,7 +4635,7 @@ value = "none" >
             <
             option value = "custom" >
                 Vlastní velikost < /option> < /
-                select > <
+            select > <
                 /span> <#
         }# >
         <
@@ -4669,7 +4669,7 @@ value = "none" >
             /span> <
         p id = "image-size-desc"
         class = "description" > Velikost obrázku v pixelech < /p> < /
-            div > < #
+        div > < #
     }# >
 
     <
@@ -4698,7 +4698,7 @@ option value = "custom" >
     Vlastní URL < /option> <
 option value = "none" >
     Žádná < /option> < /
-    select > <
+select > <
     /span> <
 span class = "setting" >
     <
@@ -4745,7 +4745,7 @@ data - setting = "extraClasses"
 value = "{{ data.model.extraClasses }}" / >
     <
     /span> < /
-    div > <
+div > <
     div class = "advanced-link" >
     <
     span class = "setting link-target" >
@@ -4759,7 +4759,7 @@ value = "_blank" < #
 label
 for = "image-details-link-target"
 class = "checkbox-label" > Otevřít odkaz na nové záložce < /label> < /
-    span > <
+span > <
     span class = "setting link-rel" >
     <
     label
@@ -4782,9 +4782,9 @@ data - setting = "linkClassName"
 value = "{{ data.model.linkClassName }}" / >
     <
     /span> < /
-    div > <
+div > <
     /div> < /
-    div > <
+div > <
     /div> <
 div class = "column-image" >
     <
@@ -4813,7 +4813,7 @@ alt = "" / >
     /div> < /
 div > <
     /div> < /
-    div > <
+div > <
     /script>
 
 <
@@ -4822,7 +4822,7 @@ id = "tmpl-image-editor" >
     <
     div id = "media-head-{{ data.id }}" > < /div> <
 div id = "image-editor-{{ data.id }}" > < /div> < /
-    script >
+script >
 
     <
     script type = "text/html"
@@ -4927,7 +4927,7 @@ if (!_.isEmpty(data.model.src)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 #
@@ -4948,7 +4948,7 @@ if (!_.isEmpty(data.model.mp3)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 #
@@ -4969,7 +4969,7 @@ if (!_.isEmpty(data.model.ogg)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 #
@@ -4990,7 +4990,7 @@ if (!_.isEmpty(data.model.flac)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 #
@@ -5011,7 +5011,7 @@ if (!_.isEmpty(data.model.m4a)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 #
@@ -5032,7 +5032,7 @@ if (!_.isEmpty(data.model.wav)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit audio soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 
 <
@@ -5055,7 +5055,7 @@ if (!_.isEmpty(html5types)) {# >
         })# >
         <
         /span> < /
-        span > <
+    span > <
         /fieldset> <#
 }# >
 
@@ -5074,9 +5074,9 @@ button class = "button"
 value = "metadata" > Strukturované informace < /button> <
 button class = "button active"
 value = "none" > Žádná < /button> < /
-    span > <
+span > <
     /span> < /
-    fieldset >
+fieldset >
 
     <
     span class = "setting-group" >
@@ -5090,7 +5090,7 @@ data - setting = "autoplay" / >
     label
 for = "audio-details-autoplay"
 class = "checkbox-label" > Přehrát automaticky < /label> < /
-    span >
+span >
 
     <
     span class = "setting checkbox-setting" >
@@ -5102,11 +5102,11 @@ data - setting = "loop" / >
     label
 for = "audio-details-loop"
 class = "checkbox-label" > Opakovat < /label> < /
-    span > <
+span > <
     /span> < /
-    div > <
+div > <
     /div> < /
-    script >
+script >
 
     <
     script type = "text/html"
@@ -5287,7 +5287,7 @@ div >
             <
             button type = "button"
         class = "button-link remove-setting" > Odstranit video soubor < /button> < /
-            span > < #
+        span > < #
     }# >
     <
     #
@@ -5308,7 +5308,7 @@ if (!_.isEmpty(data.model.mp4)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit video soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 #
@@ -5329,7 +5329,7 @@ if (!_.isEmpty(data.model.m4v)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit video soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 #
@@ -5350,7 +5350,7 @@ if (!_.isEmpty(data.model.webm)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit video soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 #
@@ -5371,7 +5371,7 @@ if (!_.isEmpty(data.model.ogv)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit video soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 #
@@ -5392,7 +5392,7 @@ if (!_.isEmpty(data.model.flv)) {
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit video soubor < /button> < /
-        span > < #
+    span > < #
 }# >
 <
 /div>
@@ -5417,7 +5417,7 @@ if (!_.isEmpty(html5types)) {# >
         })# >
         <
         /span> < /
-        span > <
+    span > <
         /fieldset> <#
 }# >
 
@@ -5437,7 +5437,7 @@ if (!_.isEmpty(data.model.poster)) {# >
         <
         button type = "button"
     class = "button-link remove-setting" > Odstranit náhledový obrázek < /button> < /
-        span > < #
+    span > < #
 }# >
 
 <
@@ -5455,9 +5455,9 @@ button class = "button"
 value = "metadata" > Strukturované informace < /button> <
 button class = "button active"
 value = "none" > Žádná < /button> < /
-    span > <
+span > <
     /span> < /
-    fieldset >
+fieldset >
 
     <
     span class = "setting-group" >
@@ -5471,7 +5471,7 @@ data - setting = "autoplay" / >
     label
 for = "video-details-autoplay"
 class = "checkbox-label" > Přehrát automaticky < /label> < /
-    span >
+span >
 
     <
     span class = "setting checkbox-setting" >
@@ -5483,7 +5483,7 @@ data - setting = "loop" / >
     label
 for = "video-details-loop"
 class = "checkbox-label" > Opakovat < /label> < /
-    span > <
+span > <
     /span>
 
 <
@@ -5524,11 +5524,11 @@ if (!_.isEmpty(data.model.content)) {
 }# >
 <
 textarea class = "hidden content-setting" > {
-        { content }
-    } < /textarea> < /
-    span > <
+    { content }
+} < /textarea> < /
+span > <
     /div> < /
-    div > <
+div > <
     /script>
 
 <
@@ -5606,7 +5606,7 @@ src = "{{ data.url }}"
 alt = "Náhled oblasti oříznutí obrázku. Vyžaduje interakci s myší." >
     <
     div class = "upload-errors" > < /div> < /
-    script >
+script >
 
     <
     script type = "text/html"
@@ -5632,7 +5632,7 @@ alt = "Náhled ikony v prohlížeči" / >
     /div> <
 span class = "browser-title"
 aria - hidden = "true" > < #print('Seniorpointy.cz')# > < /span> < /
-    div >
+div >
 
     <
     strong aria - hidden = "true" > Ikona aplikace v mobilním zařízení < /strong> <
@@ -5643,7 +5643,7 @@ src = "{{ data.url }}"
 alt = "Náhled ikony aplikace v mobilním zařízení" / >
     <
     /div> < /
-    script >
+script >
 
     <
     link rel = "stylesheet"
